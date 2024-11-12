@@ -1,0 +1,42 @@
+{
+    "0": {
+        "question": "Let F be a constant unit force that is parallel to the vector (-1, 0, 1) in xyz-space. What is the work done by F on a particle that moves along the path given by (t, t^2, t^3) between time t=0 and time t=1?\nChoose the best answer from the following options:\n0. -1/4\n1. -1/(4sqrt(2))\n2. 0\n3. sqrt(2)\nAnswer: 2\n\nIf f: R -> R is a bounded function that is Lebesgue integrable, then which of the following must be true?\nChoose the best answer from the following options:\n0. f is Riemann integrable.\n1. There does not exist a countably infinite E of R such that f is nondifferentiable at every x \\in E.\n2. There does not exist an uncountable subset E of R such that f is nondifferentiable at every x \\in E.\n3. None of the above.\nAnswer: ",
+        "answer": 3
+    },
+    "1": {
+        "question": "The map x -> axa^2 of a group G into itself is a homomorphism if and only if\nChoose the best answer from the following options:\n0. G is abelian\n1. G = {e}\n2. a^3 = e\n3. a^2 = a\nAnswer: 2\n\nSuppose A and B are n \u00d7 n matrices with real entries. Which of the follow are TRUE?\nI. The trace of A^2 is nonnegative.\nII. If A^2 = A, then the trace of A is nonnegative.\nIII. The trace of AB is the product of the traces of A and B.\nChoose the best answer from the following options:\n0. II only\n1. III only\n2. I and II only\n3. II and III only\nAnswer: ",
+        "answer": 0
+    },
+    "2": {
+        "question": "What is the minimum value of the expression x + 4z as a function defined on R^3, subject to the constraint x^2 + y^2 + z^2 <= 2?\nChoose the best answer from the following options:\n0. 0\n1. -2\n2. -sqrt(34)\n3. -sqrt(35)\nAnswer: 2\n\nIf f(z) is an analytic function that maps the entire finite complex plane into the real axis, then the imaginary axis must be mapped onto\nChoose the best answer from the following options:\n0. the entire real axis\n1. a point\n2. a ray\n3. an open finite interval\nAnswer: ",
+        "answer": 1
+    },
+    "3": {
+        "question": "Let S be the subset of R^2 consisting of all points (x, y) in the unit square [0, 1] \u00d7 [0, 1] for which x or y, or both, are irrational. With respect to the standard topology on R^2, S is\nChoose the best answer from the following options:\n0. closed\n1. open\n2. connected\n3. totally disconnected\nAnswer: 2\n\nIf the finite group G contains a subgroup of order seven but no element (other than the identity) is its own inverse, then the order of G could be\nChoose the best answer from the following options:\n0. 27\n1. 28\n2. 35\n3. 37\nAnswer: ",
+        "answer": 2
+    },
+    "4": {
+        "question": "Let C be the circle in the yz-plane whose equation is (y - 3)^2 + z^2 = 1. If C is revolved around the z-axis, the surface generated is a torus. What is the equation of this torus?\nChoose the best answer from the following options:\n0. x^2 + y^2 + z^2 + 8 = 6y\n1. (x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2)\n2. (x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2)\n3. (x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2)\nAnswer: 3\n\nWhich of the following is not always true for x, y, z \u2208 R^k?\nChoose the best answer from the following options:\n0. |x| \u2265 0\n1. |x \u00b7 y| \u2264 |x||y|\n2. |x| = 0 if and only if x = 0\n3. |x + y| = |x| + |y|\nAnswer: ",
+        "answer": 3
+    },
+    "5": {
+        "question": "Statement 1 |  Suppose \u2211|a_i| diverges and \u2211 a_i = 2. There is a rearrangement a_i_k of the terms such that \u2211 a_i_k = 4. Statement 2 | There exists metric spaces X and Y with X closed and bounded and a continuous mapping f : X \u2192 Y such that f(X) is NOT \u201cclosed and bounded\u201d.\nChoose the best answer from the following options:\n0. True, True\n1. True, False\n2. False, True\n3. False, False\nAnswer: 0\n\nWhich of the following is NOT a group?\nChoose the best answer from the following options:\n0. The integers under addition\n1. The nonzero integers under multiplication\n2. The nonzero real numbers under multiplication\n3. The complex numbers under addition\nAnswer: ",
+        "answer": 1
+    },
+    "6": {
+        "question": "X is a finite set with the following property: The number of subsets of X that contain exactly 3 elements is 14 more than the number of subsets of X that contain exactly 2 elements. How many subsets of X contain exactly 4 elements?\nChoose the best answer from the following options:\n0. 24\n1. 25\n2. 28\n3. 35\nAnswer: 3\n\nA group G in which (ab)^2 = a^2b^2 for all a, b in G is necessarily\nChoose the best answer from the following options:\n0. finite\n1. cyclic\n2. of order two\n3. abelian\nAnswer: ",
+        "answer": 3
+    },
+    "7": {
+        "question": "Let K be a nonempty subset of R^n, where n > 1. Which of the following statements must be true?\nI. If K is compact, then every continuous real-valued function defined on K is bounded.\nII. If every continuous real-valued function defined on K is bounded, then K is compact.\nIII. If K is compact, then K is connected.\nChoose the best answer from the following options:\n0. I only\n1. II only\n2. III only\n3. I and II only\nAnswer: 3\n\nFor which of the following rings is it possible for the product of two nonzero elements to be zero?\nChoose the best answer from the following options:\n0. The ring of complex numbers\n1. The ring of integers modulo 11\n2. The ring of continuous real-valued functions on [0, 1]\n3. The ring {a + b * sqrt(2) : a and b are rational numbers}\nAnswer: ",
+        "answer": 2
+    },
+    "8": {
+        "question": "Let M be a 5 x 5 real matrix. Exactly four of the following five conditions on M are equivalent to each other. Which of the five conditions is equivalent to NONE of the other four?\nChoose the best answer from the following options:\n0. For any two distinct column vectors u and v of M, the set {u, v} is linearly independent.\n1. The homogeneous system Mx = 0 has only the trivial solution.\n2. The system of equations Mx = b has a unique solution for each real 5 x 1 column vector b.\n3. The determinant of M is nonzero.\nAnswer: 0\n\nHow many structurally distinct Abelian groups have order 72?\nChoose the best answer from the following options:\n0. 4\n1. 6\n2. 8\n3. 9\nAnswer: ",
+        "answer": 1
+    },
+    "9": {
+        "question": "Suppose V is a real vector space of finite dimension n. Call the set of matrices from V into itself M(V). Let T be in M(V). Consider the two subspaces U = {X \u2208 M(V) : TX = XT} and W = {TX \u2212 XT : X \u2208 M(V)}. Which of the following must be TRUE?\nI. If V has a basis containing only eigenvectors of T then U = M(V).\nII. dim (U) + dim (W) = n^2\nIII. dim (U) < n\nChoose the best answer from the following options:\n0. I only\n1. II only\n2. III only\n3. I and II only\nAnswer: 1\n\nIf f: R -> R is a bounded function that is Lebesgue integrable, then which of the following must be true?\nChoose the best answer from the following options:\n0. f is Riemann integrable.\n1. There does not exist a countably infinite E of R such that f is nondifferentiable at every x \\in E.\n2. There does not exist an uncountable subset E of R such that f is nondifferentiable at every x \\in E.\n3. None of the above.\nAnswer: ",
+        "answer": 3
+    }
+}
