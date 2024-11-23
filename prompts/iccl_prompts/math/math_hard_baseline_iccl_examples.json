@@ -1,0 +1,42 @@
+{
+    "0": {
+        "question": "Let I != A != -I, where I is the identity matrix and A is a real 2 x 2 matrix. If A = A^(-1), then the trace of A is\nChoose the best answer from the following options:\nA. 2\nB. 1\nC. 0\nD. -1\nAnswer: 2\n\nLet K be a nonempty subset of R^n, where n > 1. Which of the following statements must be true?\nI. If K is compact, then every continuous real-valued function defined on K is bounded.\nII. If every continuous real-valued function defined on K is bounded, then K is compact.\nIII. If K is compact, then K is connected.\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. III only\nD. I and II only\nAnswer: ",
+        "answer": 3
+    },
+    "1": {
+        "question": "For which of the following rings is it possible for the product of two nonzero elements to be zero?\nChoose the best answer from the following options:\nA. The ring of complex numbers\nB. The ring of integers modulo 11\nC. The ring of continuous real-valued functions on [0, 1]\nD. The ring {a + b * sqrt(2) : a and b are rational numbers}\nAnswer: 2\n\nIf A is a subset of the real line R and A contains each rational number, which of the following must be true?\nChoose the best answer from the following options:\nA. If A is open, then A = R.\nB. If A is closed, then A = R.\nC. If A is uncountable, then A = R.\nD. If A is uncountable, then A is open.\nAnswer: ",
+        "answer": 1
+    },
+    "2": {
+        "question": "Let (Z_{10} , +, x) be the ring of integers modulo 10, and let S be the subset of Z_{10} represented by {0, 2, 4, 6, 8}. Which of the following statements is FALSE?\nChoose the best answer from the following options:\nA. (S, +, x) is closed under addition modulo 10.\nB. (S, +, x) is closed under multiplication modulo 10.\nC. (S, +, x) has an identity under addition modulo 10.\nD. (S, +, x) has no identity under multiplication modulo 10.\nAnswer: 3\n\nIt takes Kate k days to write a GRE math practice test. It takes John j days to write a GRE math practice test. If Kate and John work on a practice test in alternating 2-day shifts, it takes them 10 days when Kate starts and 10.5 days when John starts. How long would it take the two to complete a practice test if Kate and John worked simultaneously?\nChoose the best answer from the following options:\nA. 9/2 days\nB. 5 days\nC. 41/8 days\nD. 36/7 days\nAnswer: ",
+        "answer": 3
+    },
+    "3": {
+        "question": "Let k be the number of real solutions of the equation e^x + x - 2 = 0 in the interval [0, 1], and let n be the number of real solutions that are not in [0, 1]. Which of the following is true?\nChoose the best answer from the following options:\nA. k = 0 and n = 1\nB. k = 1 and n = 0\nC. k = n = 1\nD. k > 1\nAnswer: 1\n\nThe probability that a point (x, y) in R^2 is chosen follows a uniform random distribution within the region described by the inequality 0 < |x| + |y| < 1 . What is the probability that 2(x + y) > 1?\nChoose the best answer from the following options:\nA. 0\nB. 1/4\nC. sqrt(2)/4\nD. 1/sqrt(2)\nAnswer: ",
+        "answer": 1
+    },
+    "4": {
+        "question": "Let K be a nonempty subset of R^n, where n > 1. Which of the following statements must be true?\nI. If K is compact, then every continuous real-valued function defined on K is bounded.\nII. If every continuous real-valued function defined on K is bounded, then K is compact.\nIII. If K is compact, then K is connected.\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. III only\nD. I and II only\nAnswer: 3\n\nSuppose P is the set of polynomials with coefficients in Z_5 and degree less than or equal to 7. If the operator D sends p(x) in P to its derivative p\u2032(x), what are the dimensions of the null space n and range r of D?\nChoose the best answer from the following options:\nA. n = 1 and r = 6\nB. n = 1 and r = 7\nC. n = 2 and r = 5\nD. n = 2 and r = 6\nAnswer: ",
+        "answer": 3
+    },
+    "5": {
+        "question": "Suppose A and B are n x n invertible matrices, where n > 1, and I is the n x n identity matrix. If A and B are similar matrices, which of the following statements must be true?\tI. A - 2I and B - 2I are similar matrices. II. A and B have the same trace.\t III. A^-1 and B^-1 are similar matrices.\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. III only\nD. I, II, and III\nAnswer: 3\n\nStatement 1 | Suppose f : [a, b] is a function and suppose f has a local maximum. f'(x) must exist and equal 0? Statement 2 | There exist non-constant continuous maps from R to Q.\nChoose the best answer from the following options:\nA. True, True\nB. True, False\nC. False, True\nD. False, False\nAnswer: ",
+        "answer": 3
+    },
+    "6": {
+        "question": "Let V be the real vector space of all real 2 x 3 matrices, and let W be the real vector space of all real 4 x 1 column vectors. If T is a linear transformation from V onto W, what is the dimension of the subspace kernel of T?\nChoose the best answer from the following options:\nA. 2\nB. 3\nC. 4\nD. 5\nAnswer: 0\n\nLet x_1 = 1 and x_(n+1) = sqrt(3+2x_n) for all positive integers n. If it is assumed that {x_n} converges, then lim x_n =\nChoose the best answer from the following options:\nA. 3\nB. e\nC. sqrt(5)\nD. 0\nAnswer: ",
+        "answer": 0
+    },
+    "7": {
+        "question": "Suppose V is a real vector space of finite dimension n. Call the set of matrices from V into itself M(V). Let T be in M(V). Consider the two subspaces U = {X \u2208 M(V) : TX = XT} and W = {TX \u2212 XT : X \u2208 M(V)}. Which of the following must be TRUE?\nI. If V has a basis containing only eigenvectors of T then U = M(V).\nII. dim (U) + dim (W) = n^2\nIII. dim (U) < n\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. III only\nD. I and II only\nAnswer: 1\n\nWhich of the following is not always true for x, y, z \u2208 R^k?\nChoose the best answer from the following options:\nA. |x| \u2265 0\nB. |x \u00b7 y| \u2264 |x||y|\nC. |x| = 0 if and only if x = 0\nD. |x + y| = |x| + |y|\nAnswer: ",
+        "answer": 3
+    },
+    "8": {
+        "question": "Let f(x) be a function whose graph passes through the origin. If f(2n) = n^2 + f[2(n - 1)] for every integer n, what is the value of f(8)?\nChoose the best answer from the following options:\nA. 24\nB. 30\nC. 32\nD. 36\nAnswer: 1\n\nWhat is the greatest possible area of a triangular region with one vertex at the center of a circle of radius 1 and the other two vertices on the circle?\nChoose the best answer from the following options:\nA. 1/2\nB. 1\nC. sqrt(2)\nD. pi\nAnswer: ",
+        "answer": 0
+    },
+    "9": {
+        "question": "If f : (0, 1) \u2192 (0, 1], then which of the following could be TRUE?\nI. f is one-to-one and onto.\nII. The image of f is compact.\nIII. f is continuous, one-to-one, and onto.\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. I and II only\nD. I and III only\nAnswer: 2\n\nStatement 1 | If A is connected, the closure of A must be connected. Statement 2 | Every continuous function f : (0, 1) \u2192 (0, 1) has a fixed point.\nChoose the best answer from the following options:\nA. True, True\nB. True, False\nC. False, True\nD. False, False\nAnswer: ",
+        "answer": 1
+    }
+}
