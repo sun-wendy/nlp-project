@@ -1,0 +1,16 @@
+model,subset,prompt_type,correct_count,total_count
+gpt-3.5-turbo,math,iccl,4,10
+gpt-3.5-turbo,math,random,0,10
+gpt-3.5-turbo,math,all_hard,2,10
+gpt-3.5-turbo,physics,iccl,13,50
+gpt-3.5-turbo,physics,random,12,50
+gpt-3.5-turbo,physics,all_hard,14,50
+gpt-3.5-turbo,cs,iccl,8,50
+gpt-3.5-turbo,cs,random,13,50
+gpt-3.5-turbo,cs,all_hard,17,50
+gpt-3.5-turbo,biology,iccl,27,50
+gpt-3.5-turbo,biology,random,22,50
+gpt-3.5-turbo,biology,all_hard,31,50
+gpt-3.5-turbo,chemistry,iccl,13,50
+gpt-3.5-turbo,chemistry,random,15,50
+gpt-3.5-turbo,chemistry,all_hard,23,50
