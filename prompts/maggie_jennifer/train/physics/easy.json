@@ -1,202 +1,202 @@
 [
   {
-    "question": "Which of the following statements about images is true?\nChoose the best answer from the following options:\nA. Images produced by concave lenses are always real.\nB. Images produced by concave mirros are always real.\nC. Images produced by convex lenses can be both real and virtual.\nD. Images produced by convex mirrors can be both real and virtual.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A solid, metal object is isolated from other charges and has charge distributed on its surface. The charge distribution is not uniform. It may be correctly concluded that the\nChoose the best answer from the following options:\nA. electric field outside the object is zero\nB. the electric field outside the object is equal to the electric field inside the object\nC. the electric field outside the object is directly proportional to the distance away from the center of mass of the object\nD. the electric field outside the object, but very close to the surface, is equal to the surface charge density at any location divided by the permittivity of free space\nAnswer: ",
-    "answer": 3
-  },
-  {
-    "question": "A student pushes a puck across a table, moving it from position x = 0 to position x = 0.2 m. After he lets go, the puck continues to travel across the table, coming to rest at position x = 1.2 m. When the puck is at position x = 1.0 m, which of the following is a correct assertion about the net force on the puck?\nChoose the best answer from the following options:\nA. The net force is in the negative direction, because the puck is moving in the positive direction but slowing down.\nB. The net force is down, because the puck is near the Earth, where gravitational acceleration is 10 m/s^2 downward.\nC. The net force is in the positive direction, because the student’s push caused the puck to speed up in the positive direction.\nD. The net force is zero, because the student’s push in the positive direction must equal the force of friction in the negative direction.\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "Optometrists use a linear scale of lens power, measured in diopters, to prescribe corrective lenses. Sufferers of myopia, or nearsightedness, have difficulty resolving distant objects because the lenses in their eyes are too strong. If a myopic person has a prescription of -5 diopters, what image do her corrective lenses create for distant objects?\nChoose the best answer from the following options:\nA. An upright, real image about 20 cm in front of her eyes\nB. An upright, virtual image about 20 cm in front of her eyes\nC. An inverted, real image about 20 cm behind her eyes\nD. An inverted, virtual image 5 cm behind her eyes\nAnswer: ",
+    "question": "An artificial satellite orbits Earth just above the atmosphere in a circle with constant speed. A small meteor collides with the satellite at point P in its orbit, increasing its speed by 1%, but not changing the instantaneous direction of the satellite’s velocity. Which of the following describes the satellite’s new orbit?\nChoose the best answer from the following options:\n0. The satellite now orbits in an ellipse, with P as the farthest approach to Earth.\n1. The satellite now orbits in an ellipse, with P as the closest approach to Earth.\n2. The satellite now orbits in a circle of larger radius.\n3. The satellite now orbits in a circle of smaller radius.\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "A car rounds a banked curve of uniform radius. Three forces act on the car: a friction force between the tires and the road, the normal force from the road, and the weight of the car. Which provides the centripetal force which keeps the car in circular motion?\nChoose the best answer from the following options:\nA. the friction force alone\nB. the normal force alone\nC. the weight alone\nD. a combination of the normal force and the friction force\nAnswer: ",
+    "question": "The Gravitron is a carnival ride that looks like a large cylinder. People stand inside the cylinder against the wall as it begins to spin. Eventually, it is rotating fast enough that the floor can be removed without anyone falling. Given then the coefficient of friction between a person’s clothing and the wall is μ, the tangential speed is v, and the radius of the ride is R, what is greatest mass that a person can be to safely go on this ride?\nChoose the best answer from the following options:\n0. μv^2/(rg)\n1. r^2v^2/(μg)\n2. rg/(μv^2)\n3. None of the above.\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "Mercury orbits the sun in about one-fifth of an Earth year. If 1 AU is defined as the distance from the Earth to the sun, what is the approximate distance between Mercury and the sun?\nChoose the best answer from the following options:\nA. (1/25) AU\nB. (1/9) AU\nC. (1/5) AU\nD. (1/3) AU\nAnswer: ",
+    "question": "Mercury orbits the sun in about one-fifth of an Earth year. If 1 AU is defined as the distance from the Earth to the sun, what is the approximate distance between Mercury and the sun?\nChoose the best answer from the following options:\n0. (1/25) AU\n1. (1/9) AU\n2. (1/5) AU\n3. (1/3) AU\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "An astronaut lands on a planet whose mass and radius are each twice that of Earth. If the astronaut weighs 800 N on Earth, how much will he weigh on this planet?\nChoose the best answer from the following options:\nA. 200 N\nB. 400 N\nC. 800 N\nD. 1600 N\nAnswer: ",
+    "question": "A particle's kinetic energy is changing at a rate of –6.0 J/s when its speed is 3.0 m/s. What is the magnitude of the force on the particle at this moment?\nChoose the best answer from the following options:\n0. 0.5 N\n1. 2.0 N\n2. 4.5 N\n3. 9.0 N\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "The Space Shuttle orbits 300 km above the Earth’s surface; the Earth’s radius is 6400 km. What is the acceleration due to Earth’s gravity experienced by the Space Shuttle?\nChoose the best answer from the following options:\nA. 4.9 m/s^2\nB. 8.9 m/s^2\nC. 9.8 m/s^2\nD. 10.8 m/s^2\nAnswer: ",
+    "question": "A car rounds a banked curve of uniform radius. Three forces act on the car: a friction force between the tires and the road, the normal force from the road, and the weight of the car. Which provides the centripetal force which keeps the car in circular motion?\nChoose the best answer from the following options:\n0. the friction force alone\n1. the normal force alone\n2. the weight alone\n3. a combination of the normal force and the friction force\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "A car starts from rest and uniformly accelerates to a final speed of 20.0 m/s in a time of 15.0 s. How far does the car travel during this time?\nChoose the best answer from the following options:\n0. 150 m \n1. 300 m\n2. 450 m\n3. 600 m\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object’s kinetic energy at the bottom must be\nChoose the best answer from the following options:\n0. Equal to the block’s gravitational potential energy when it was released, because total mechanical energy must be conserved.\n1. Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.\n2. Less than the block’s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.\n3. Less than the block’s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block’s gain in kinetic energy.\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?\nChoose the best answer from the following options:\n0. The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol.\n1. The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container.\n2. The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same.\n3. The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same.\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "What happens to the pressure, P, of an ideal gas if the temperature is increased by a factor of 2 and the volume is increased by a factor of 8 ?\nChoose the best answer from the following options:\n0. P decreases by a factor of 16.\n1. P decreases by a factor of 4.\n2. P decreases by a factor of 2.\n3. P increases by a factor of 4.\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "A car moving with speed v reaches the foot of an incline of angle θ. The car coasts up the incline without using the engine. Neglecting friction and air resistance, which of the following is correct about the magnitude of the car’s horizontal acceleration ax and vertical acceleration ay?\nChoose the best answer from the following options:\nA. ax = 0; ay < g\nB. ax = 0; ay = g\nC. ax < g; ay < g\nD. ax < g; ay = g\nAnswer: ",
+    "question": "A children’s toy consists of a cart whose very light wheels are attached to a rubber band. This rubber band can wind and unwind around the axle supporting the wheels. This toy is given a shove, after which the toy rolls across a flat surface and up a ramp. It is observed that the toy does not go a consistent distance up the ramp—in some trials it ends up higher than in other trials, even though the shove imparts the same kinetic energy to the cart each time. Which of the following is a reasonable explanation for this phenomenon?\nChoose the best answer from the following options:\n0. Depending on how the rubber band is initially wound, more or less potential energy can be transferred from the rubber band to the kinetic energy of the car’s motion.\n1. The normal force on the cart’s wheels will be different depending on how much the rubber band winds or unwinds.\n2. How much energy is transferred from kinetic energy to gravitational potential energy depends on the vertical height at which the cart ends up.\n3. Some of the cart’s initial kinetic energy will be dissipated due to work done by friction.\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "The circumference of a helium-filled balloon is measured for three different conditions: at room temperature, after being in a warm oven for 30 minutes, and after being in a freezer for 30 minutes. A student plotting the circumference cubed C^3 as a function of temperature T, should expect to find which of the following?\nChoose the best answer from the following options:\n0. a cubic relationship between C^3 and T\n1. an indirect relationship between C^3 and T\n2. an extrapolated temperature T where C^3 reaches zero\n3. a maximum C^3 as the temperature T increases\nAnswer: ",
     "answer": 2
   },
   {
-    "question": "A beam of monochromatic light entering a glass window pane from the air will experience a change in\nChoose the best answer from the following options:\nA. frequency and wavelength\nB. frequency and speed\nC. speed and wavelength\nD. speed only\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "The circumference of a helium-filled balloon is measured for three different conditions: at room temperature, after being in a warm oven for 30 minutes, and after being in a freezer for 30 minutes. A student plotting the circumference cubed C^3 as a function of temperature T, should expect to find which of the following?\nChoose the best answer from the following options:\nA. a cubic relationship between C^3 and T\nB. an indirect relationship between C^3 and T\nC. an extrapolated temperature T where C^3 reaches zero\nD. a maximum C^3 as the temperature T increases\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A box sits on an inclined plane without sliding. As the angle of the plane (measured from the horizontal) increases, the normal force\nChoose the best answer from the following options:\nA. increases linearly\nB. decreases linearly\nC. does not change\nD. decreases nonlinearly\nAnswer: ",
+    "question": "An object of mass 2 kg is acted upon by three external forces, each of magnitude 4 N. Which of the following could NOT be the resulting acceleration of the object?\nChoose the best answer from the following options:\n0. 0 m/s^2\n1. 2 m/s^2\n2. 4 m/s^2\n3. 8 m/s^2\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "In which of the following situations involving a source of sound and a detector of the sound is it possible that there is NO perceived Doppler shift?\nChoose the best answer from the following options:\nA. The source travels toward the stationary detector.\nB. The detector travels toward the stationary source.\nC. Both the source and detector travel in the same direction.\nD. Both the source and detector travel in opposite directions, with the source and detector moving away from each other.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "An object is placed 10 cm in front of a diverging mirror. What is the focal length of the mirror if the image appears 2 cm behind the mirror?\nChoose the best answer from the following options:\nA. -3/5 cm\nB. -5/3 cm\nC. -2/5 cm\nD. -5/2 cm\nAnswer: ",
+    "question": "In an experiment designed to study the photoelectric effect, it is observed that low-intensity visible light of wavelength 550 nm produced no photoelectrons. Which of the following best describes what would occur if the intensity of this light were increased dramatically?\nChoose the best answer from the following options:\n0. Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons.\n1. Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.\n2. After several seconds, necessary for the electrons to absorb sufficient energy from the incident light, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.\n3. Nothing would happen.\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "An object is released from rest and falls a distance h during the first second of time. How far will it fall during the next second of time?\nChoose the best answer from the following options:\nA. h\nB. 2h\nC. 3h\nD. 4h\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?\nChoose the best answer from the following options:\nA. The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol.\nB. The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container.\nC. The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same.\nD. The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same.\nAnswer: ",
+    "question": "A rigid, solid container of constant volume holds an ideal gas of volume v1 and temperature T1 and pressure P1. The temperature is increased in an isochoric process. Which of the following is NOT true?\nChoose the best answer from the following options:\n0. The average speed of the molecules increases.\n1. The pressure increases.\n2. The kinetic energy of the system increases.\n3. The volume increases.\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "If two non-zero vectors are added together, and the resultant vector is zero, what must be true of the two vectors?\nChoose the best answer from the following options:\nA. They have equal magnitude and are pointed in the same direction.\nB. They have equal magnitude and are pointed in opposite directions.\nC. They have different magnitudes and are pointed in opposite directions.\nD. It is not possible for the sum of two non-zero vectors to be zero.\nAnswer: ",
+    "question": "A cannon is mounted on a truck that moves forward at a speed of 5 m/s. The operator wants to launch a ball from a cannon so the ball goes as far as possible before hitting the level surface. The muzzle velocity of the cannon is 50 m/s. At what angle from the horizontal should the operator point the cannon?\nChoose the best answer from the following options:\n0. 5°\n1. 41°\n2. 45°\n3. 49°\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field, B, of magnitude 1.0 T. If the proton's initial velocity vector makes an angle of 30° with the direction of B, compute the proton's speed 4 s after entering the magnetic field.\nChoose the best answer from the following options:\n0. 5.0 × 10^5 m/s\n1. 7.5 × 10^5 m/s\n2. 1.5 × 10^6 m/s\n3. 3.0 × 10^6 m/s\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "An electron (mass = m, charge = -E) is rotated with speed V upwards, in the plane of the page, into a region containing a uniform magnetic field B, that is directed into the plane of the page. Describe the electron's subsequent circular motion.\nChoose the best answer from the following options:\n0. Clockwise rotation; radius of path = mv/(eB)\n1. Counterclockwise rotation; radius of path = mv/(eB)\n2. Clockwise rotation; radius of path = eB/(mv)\n3. Counterclockwise rotation; radius of path = eB/(mv)\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "A textbook weighs 30 N at sea level. Earth’s radius is 6,400 km. Which of the following is the best estimate of the textbook’s weight on a mountain peak located 6,000 m above sea level?\nChoose the best answer from the following options:\n0. 60 N\n1. 15 N\n2. 30 N\n3. 7.5 N\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "An ideal fluid flows through a pipe with radius Q and flow speed V. If the pipe splits up into three separate paths, each with radius (Q/2), what is the flow speed through each of the paths?\nChoose the best answer from the following options:\n0. 1/3 V\n1. 2/3 V\n2. 4/3 V\n3. 4V\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "An electric dipole consists of a pair of equal but opposite point charges of magnitude 4.0 nC separated by a distance of 2.0 cm. What is the electric field strength at the point midway between the charges?\nChoose the best answer from the following options:\n0. 0\n1. 9.0 × 10^4 N/C\n2. 1.8 × 10^5 N/C\n3. 7.2 × 10^5 N/C\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "An electric dipole consists of a pair of equal but opposite point charges of magnitude 4.0 nC separated by a distance of 2.0 cm. What is the electric field strength at the point midway between the charges?\nChoose the best answer from the following options:\n0. 0\n1. 9.0 × 10^4 V/m\n2. 1.8 × 10^5 V/m\n3. 7.2 × 10^5 V/m\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "A convex lens of focal length f = 0.2 m is used to examine a small coin lying on a table. During the examination, the lens is held a distance 0.3 m above the coin and is moved slowly to a distance of 0.1 m above the coin. During this process, what happens to the image of the coin?\nChoose the best answer from the following options:\n0. The image continually increases in size.\n1. The image continually decreases in size.\n2. The image gets smaller at first and then bigger in size.\n3. The image flips over.\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following statements is true concerning the motion of an ideal projectile launched at an angle of 45° to the horizontal?\nChoose the best answer from the following options:\n0. The acceleration vector points opposite to the velocity vector on the way up and in the same direction as the velocity vector on the way down.\n1. The speed at the top of the trajectory is zero.\n2. The object's total speed remains constant during the entire flight.\n3. The vertical speed decreases on the way up and increases on the way down.\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "A circuit consists of a battery and a light bulb. At first, the circuit is disconnected. Then, the circuit is connected, and the light bulb lights. After the light bulb has been lit for a few moments, how has the net charge residing on the circuit elements changed?\nChoose the best answer from the following options:\n0. The net charge has become more positive.\n1. The net charge has become more negative.\n2. The net charge has not changed.\n3. Whether the net charge becomes more positive or more negative depends on the initial net charge residing on the circuit elements before the bulb was lit.\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "A very slow-moving positron interacts with a stationary electron. Which of the following statements correctly describes a possible outcome of this reaction and why it would occur?\nChoose the best answer from the following options:\n0. Conservation of mass indicates that if a single new particle were created in the reaction, it must have a total mass equal to the combined masses of the electron and positron.\n1. Conservation of charge indicates that all new particles created in the reaction would have no electric charge.\n2. Conservation of momentum indicates that two identical gamma rays moving off in opposite directions could be created.\n3. Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind.\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "A whiffle ball is tossed straight up, reaches a highest point, and falls back down. Air resistance is not negligible. Which of the following statements are true?\nI. The ball’s speed is zero at the highest point.\nII. The ball’s acceleration is zero at the highest point.\nIII. The ball takes a longer time to travel up to the highest point than to fall back down.\nChoose the best answer from the following options:\n0. I only\n1. II only\n2. I & II only\n3. I & III only\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "The Space Shuttle orbits 300 km above the Earth’s surface; the Earth’s radius is 6400 km. What is the acceleration due to Earth’s gravity experienced by the Space Shuttle?\nChoose the best answer from the following options:\n0. 4.9 m/s^2\n1. 8.9 m/s^2\n2. 9.8 m/s^2\n3. 10.8 m/s^2\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "The mass of the Earth is 5.97 × 10^24 kg. The Moon, whose center is 3.84 × 10^8 m from the Earth’s center, has mass 7.35 × 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?\nChoose the best answer from the following options:\nA. 10^39 N\nB. 10^29 N\nC. 10^19 N\nD. 10^9 N\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "An ideal fluid flows through a pipe with radius Q and flow speed V. If the pipe splits up into three separate paths, each with radius (Q/2), what is the flow speed through each of the paths?\nChoose the best answer from the following options:\nA. 1/3 V\nB. 2/3 V\nC. 4/3 V\nD. 4V\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "The position of an object is given by the equations x = 2.0t^3 + 4.0t + 6.25, where x is in meters and t is in seconds. What is the acceleration of the object at t = 1.50 s?\nChoose the best answer from the following options:\nA. 6 m/s^2\nB. 12 m/s^2\nC. 18 m/s^2\nD. 24 m/s^2\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "How long would it take a car, starting from rest and accelerating uniformly in a straight line at 5 m/s^2, to cover a distance of 200 m ?\nChoose the best answer from the following options:\nA. 9.0 s\nB. 10.5 s\nC. 12.0 s\nD. 15.5 s\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "Physics students are checking the constant acceleration equations of kinematics by measuring the velocity of a tennis ball that is dropped and falls 6 meters and then passes through a photogate. The predicted velocity is 20% above the velocity measured by the photogate. Which of the following best describes the cause of the large percent difference?\nChoose the best answer from the following options:\nA. The ball changes its shape while falling.\nB. The acceleration of gravity varies as the ball is falling.\nC. Air resistance increases the acceleration of the ball.\nD. The acceleration of the balls varies with the velocity.\nAnswer: ",
-    "answer": 3
-  },
-  {
-    "question": "A sphere starts from rest atop a hill with a constant angle of inclination and is allowed to roll without slipping down the hill. What force provides the torque that causes the sphere to rotate?\nChoose the best answer from the following options:\nA. Static friction\nB. Kinetic friction\nC. The normal force of the hill on the sphere\nD. Gravity\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "A particle is subjected to a conservative force whose potential energy function is U(x) = (x – 2)3 – 12x where U is given in joules when x is measured in meters. Which of the following represents a position of stable equilibrium?\nChoose the best answer from the following options:\nA. x = –4\nB. x = –2\nC. x = 0\nD. x = 4\nAnswer: ",
-    "answer": 3
-  },
-  {
-    "question": "A convex lens of focal length f = 0.2 m is used to examine a small coin lying on a table. During the examination, the lens is held a distance 0.3 m above the coin and is moved slowly to a distance of 0.1 m above the coin. During this process, what happens to the image of the coin?\nChoose the best answer from the following options:\nA. The image continually increases in size.\nB. The image continually decreases in size.\nC. The image gets smaller at first and then bigger in size.\nD. The image flips over.\nAnswer: ",
-    "answer": 3
-  },
-  {
-    "question": "An alarm whose frequency is 400 Hz is dropped out of a third-floor window. The student who drops it measures the frequency with a very sensitive oscilloscope. The measured frequency\nChoose the best answer from the following options:\nA. appears higher than 400 Hz and the frequency increase as it falls\nB. appears higher than 400 Hz and the frequency decreases as it falls\nC. appears lower than 400 Hz and the frequency decreases as it falls\nD. appears lower than 400 Hz and the frequency increases as it falls\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A charged particle moves through a magnetic field and experiences a force f. New particles are sent into the same magnetic field. If the new particles have twice the charge, twice the mass, and twice the velocity, the new force would be\nChoose the best answer from the following options:\nA. 4F\nB. 2F\nC. F\nD. 1/2 F\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?\nChoose the best answer from the following options:\nA. under any conditions\nB. only when the enclosed charge is symmetrically distributed\nC. only when all nearby charges are symmetrically distributed\nD. only when there are no charges outside the surface\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "Heat is added to a cylindrical aluminum rod of radius Q and length ℓ. The temperature difference between the two ends of the rod varies from 10°C to 20°C. What geometric factors will influence the rate heat is transferred along the rod?\nChoose the best answer from the following options:\nA. Only the length\nB. Only the area of the rod\nC. Both the length and area\nD. Neither the length nor area\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A very slow-moving positron interacts with a stationary electron. Which of the following statements correctly describes a possible outcome of this reaction and why it would occur?\nChoose the best answer from the following options:\nA. Conservation of mass indicates that if a single new particle were created in the reaction, it must have a total mass equal to the combined masses of the electron and positron.\nB. Conservation of charge indicates that all new particles created in the reaction would have no electric charge.\nC. Conservation of momentum indicates that two identical gamma rays moving off in opposite directions could be created.\nD. Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A rock drops onto a pond with a smooth surface. A few moments later, the wave produced by the rock’s impact arrives at the shore, touching the ankles of a wading child. Which of the following observations provides evidence that the portion of the wave hitting the child’s ankles carries less energy than the wave did when it was first created by the rock’s impact?\nChoose the best answer from the following options:\nA. The wave is moving more slowly.\nB. The wave pulse’s width has become greater.\nC. The wave pulse’s width has become smaller.\nD. The wave’s height has become smaller.\nAnswer: ",
-    "answer": 3
-  },
-  {
-    "question": "A solid sphere (I = 0.06 kg·m^2) spins freely around an axis through its center at an angular speed of 20 rad/s. It is desired to bring the sphere to rest by applying a friction force of magnitude 2.0 N to the sphere’s outer surface, a distance of 0.30 m from the sphere’s center. How much time will it take the sphere to come to rest?\nChoose the best answer from the following options:\nA. 4 s\nB. 2 s\nC. 0.06 s\nD. 0.03 s\nAnswer: ",
+    "question": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?\nChoose the best answer from the following options:\n0. 0.005 C\n1. 0.01 C\n2. 0.02 C\n3. 0.5 C\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "An object carries a charge of –1 C. How many excess electrons does it contain?\nChoose the best answer from the following options:\nA. 6.25 × 10^18\nB. 8.00 × 10^18\nC. 1.60 × 10^19\nD. 3.20 × 10^19\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field of magnitude 1.5 T. If the proton's initial velocity vector makes an angle of 30° with the magnetic field, compute the proton's speed 4 s after entering the magnetic field.\nChoose the best answer from the following options:\nA. 5.0 × 10^6 m/s\nB. 7.5 × 10^6 m/s\nC. 1.5 × 10^6 m/s\nD. 3.0 × 10^6 m/s\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A whiffle ball is tossed straight up, reaches a highest point, and falls back down. Air resistance is not negligible. Which of the following statements are true?\nI. The ball’s speed is zero at the highest point.\nII. The ball’s acceleration is zero at the highest point.\nIII. The ball takes a longer time to travel up to the highest point than to fall back down.\nChoose the best answer from the following options:\nA. I only\nB. II only\nC. I & II only\nD. I & III only\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A gas undergoes an expansion-compression cycle. If, plotted on a P-V diagram, the cycle is counterclockwise and the work is 300 J in magnitude, what was the heat transfer during this cycle?\nChoose the best answer from the following options:\nA. 300 J into the system\nB. 300 J out of the system\nC. 600 J into the system\nD. 600 J out of the system\nAnswer: ",
-    "answer": 1
-  },
-  {
-    "question": "A sphere, a cube, and a cylinder, all of equal mass, are released from rest from the top of a short incline. The surface of the incline is extremely slick, so much so that the objects do not rotate when released, but rather slide with negligible friction. Which reaches the base of the incline first?\nChoose the best answer from the following options:\nA. the sphere\nB. the cube\nC. the cylinder\nD. All reach the base at the same time.\nAnswer: ",
+    "question": "What happens to the force of gravitational attraction between two small objects if the mass of each object is doubled and the distance between their centers is doubled?\nChoose the best answer from the following options:\n0. It is doubled.\n1. It is quadrupled.\n2. It is halved.\n3. It remains the same.\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "What happens to the pressure, P, of an ideal gas if the temperature is increased by a factor of 2 and the volume is increased by a factor of 8 ?\nChoose the best answer from the following options:\nA. P decreases by a factor of 16.\nB. P decreases by a factor of 4.\nC. P decreases by a factor of 2.\nD. P increases by a factor of 4.\nAnswer: ",
-    "answer": 1
-  },
-  {
-    "question": "An ideal battery of constant voltage V supplies current to a circuit that has total resistance R. If R is doubled, what will happen to the total power dissipated by the circuit?\nChoose the best answer from the following options:\nA. It will double.\nB. It will quadruple.\nC. It will be halved.\nD. It will remain the same.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "A circuit consists of a battery and a light bulb. At first, the circuit is disconnected. Then, the circuit is connected, and the light bulb lights. After the light bulb has been lit for a few moments, how has the net charge residing on the circuit elements changed?\nChoose the best answer from the following options:\nA. The net charge has become more positive.\nB. The net charge has become more negative.\nC. The net charge has not changed.\nD. Whether the net charge becomes more positive or more negative depends on the initial net charge residing on the circuit elements before the bulb was lit.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "What happens to the image formed by a concave mirror as the object is moved from far away to near the focal point?\nChoose the best answer from the following options:\nA. The image moves away from the mirror and gets shorter.\nB. The image moves away from the mirror and gets taller.\nC. The image moves toward the mirror and gets shorter.\nD. The image moves toward the mirror and gets taller.\nAnswer: ",
-    "answer": 1
-  },
-  {
-    "question": "A car starts from rest and uniformly accelerates to a final speed of 20.0 m/s in a time of 15.0 s. How far does the car travel during this time?\nChoose the best answer from the following options:\nA. 150 m \nB. 300 m\nC. 450 m\nD. 600 m\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "It is known that a lab cart is moving east at 25 cm/s at time t1 = 0.10 s, and then moving east at 15 cm/s at t2 = 0.20 s. Is this enough information to determine the direction of the net force acting on the cart between t1 and t2?\nChoose the best answer from the following options:\nA. Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change.\nB. No, because we don’t know whether forces such as friction or air resistance might be acting on the cart.\nC. No, because we don’t know the mass of the cart.\nD. Yes, since we know the cart keeps moving to the east, the net force must be in the direction of motion.\nAnswer: ",
-    "answer": 0
-  },
-  {
-    "question": "A body moving in the positive x direction passes the origin at time t = 0. Between t = 0 and t = 1 second, the body has a constant speed of 24 meters per second. At t = 1 second, the body is given a constant acceleration of 6 meters per second squared in the negative x direction. The position x of the body at t = 11 seconds is\nChoose the best answer from the following options:\nA. 99m\nB. 36m\nC. -36m\nD. -99m\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "An object of volume 2 × 10^-3 m^3 and weight 6 N is placed into a tank of water, where it floats. What percentage of the object's volume is above the surface of the water?\nChoose the best answer from the following options:\nA. 12%\nB. 30%\nC. 60%\nD. 70%\nAnswer: ",
+    "question": "The charge on an oil drop is measured in the laboratory. Which of the following measurements should be rejected as highly unlikely to be correct?\nChoose the best answer from the following options:\n0. 6.4 × 10^-19 C\n1. 8.0 × 10^-19 C\n2. 4.8 × 10^-19 C\n3. 2.4 × 10^-19 C\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?\nChoose the best answer from the following options:\nA. 0.005 C\nB. 0.01 C\nC. 0.02 C\nD. 0.5 C\nAnswer: ",
+    "question": "A sound wave with frequency f travels through air at speed v. With what speed will a sound wave with frequency 4f travel through the air?\nChoose the best answer from the following options:\n0. v/4\n1. v\n2. 2v\n3. 4v\nAnswer: ",
     "answer": 1
   },
   {
-    "question": "Each of the following ionized isotopes is projected with the same speed into a uniform magnetic field B such that the isotope's initial velocity is perpendicular to B. Which combination of mass and charge would result in a circular path with the largest radius?\nChoose the best answer from the following options:\nA. m = 16 u, q = –5 e\nB. m = 17 u, q = –4 e\nC. m = 18 u, q = –3 e\nD. m = 20 u, q = –1 e\nAnswer: ",
+    "question": "A spherical charge distribution varies with the radius r by the equation ρ = ar, where ρ is the volume charge density and a is a positive constant. The distribution goes out to a radius R. Which of the following is true of the electric field strength due to this charge distribution at a distance r from the center?\nChoose the best answer from the following options:\n0. It increases as r approaches infinity.\n1. It decreases linearly for r > R.\n2. It increases linearly for r > R.\n3. It increases non-linearly for r < R.\nAnswer: ",
     "answer": 3
   },
   {
-    "question": "A liquid flows at a constant flow rate through a pipe with circular cross-sections of varying diameters. At one point in the pipe, the diameter is 2 cm and the flow speed is 18 m/s. What is the flow speed at another point in this pipe, where the diameter is 3 cm?\nChoose the best answer from the following options:\nA. 4 m/s\nB. 6 m/s\nC. 8 m/s\nD. 12 m/s\nAnswer: ",
+    "question": "A fluid of density ρ flows through a horizontal pipe with negligible viscosity. The flow is streamlined with constant flow rate. The diameter of the pipe at Point 1 is d and the flow speed is V. If the diameter of the pipe at Point 2 is d/3, then the pressure at Point 2 is\nChoose the best answer from the following options:\n0. less than the pressure at Point 1 by 4 ρv^2\n1. less than the pressure at Point 1 by 40 ρv^2\n2. more than the pressure at Point 1 by 4 ρv^2\n3. more than the pressure at Point 1 by 40 ρv^2\nAnswer: ",
+    "answer": 1
+  },
+  {
+    "question": "The mass of the Earth is 5.97 × 10^24 kg. The Moon, whose center is 3.84 × 10^8 m from the Earth’s center, has mass 7.35 × 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?\nChoose the best answer from the following options:\n0. 10^39 N\n1. 10^29 N\n2. 10^19 N\n3. 10^9 N\nAnswer: ",
     "answer": 2
   },
   {
-    "question": "A nonconducting sphere is given a nonzero net electric charge, +Q, and then brought close to a neutral conducting sphere of the same radius. Which of the following will be true?\nChoose the best answer from the following options:\nA. An electric field will be induced within the conducting sphere.\nB. The conducting sphere will develop a net electric charge of –Q.\nC. The spheres will experience an electrostatic attraction.\nD. The spheres will experience an electrostatic repulsion.\nAnswer: ",
-    "answer": 2
-  },
-  {
-    "question": "During an isothermal expansion, a confined ideal gas does 150 J of work against its surroundings. Which of the following describes the heat transfer during this process?\nChoose the best answer from the following options:\nA. 150 J of heat was added to the gas.\nB. 150 J of heat was removed from the gas.\nC. 300 J of heat was added to the gas.\nD. 300 J of heat was removed from the gas.\nAnswer: ",
+    "question": "Which of these quantities decreases as the inverse square of distance for distances far from the objects producing the fields?\nChoose the best answer from the following options:\n0. the electric field produced by a finite-length charged rod\n1. the electric field produced by an infinitely long charged cylinder\n2. the electric field produced by an infinite plane of charge\n3. the magnetic field produced by an infinitely long, straight current-carrying wire\nAnswer: ",
     "answer": 0
+  },
+  {
+    "question": "The weight of a box on the Earth is 80 N. What is the weight of the box on the moon if the moon has 1/80th the mass and 1/4th the radius of the Earth?\nChoose the best answer from the following options:\n0. 1 N\n1. 10 N\n2. 16 N\n3. 20 N\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "During an isothermal expansion, a confined ideal gas does 150 J of work against its surroundings. Which of the following describes the heat transfer during this process?\nChoose the best answer from the following options:\n0. 150 J of heat was added to the gas.\n1. 150 J of heat was removed from the gas.\n2. 300 J of heat was added to the gas.\n3. 300 J of heat was removed from the gas.\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "A person can stand outside on a cold day for hours without ill effect, but falling into a cold lake can kill a person in a matter of minutes. Which of the following is the primary reason for this phenomenon?\nChoose the best answer from the following options:\n0. The molecules of the person are, on average, moving faster than those of the surroundings.\n1. Thermal energy moves from high concentration areas (hot) to low concentration areas (cold).\n2. As heat flows out of the person and warms the fluid surrounding the person, the warmer fluid rises, allowing fresh cool fluid to come in contact with the person and increasing the rate of heat transfer.\n3. Water has more molecules per volume than air, increasing molecular contact with the person.\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "A man stands in an elevator as it begins to ascend. Does the normal force from the floor do work on the man?\nChoose the best answer from the following options:\n0. Yes, and the work done will be positive.\n1. Yes, and the work done will be negative.\n2. Yes, but the sign can’t be determined.\n3. No.\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?\nChoose the best answer from the following options:\n0. under any conditions\n1. only when the enclosed charge is symmetrically distributed\n2. only when all nearby charges are symmetrically distributed\n3. only when there are no charges outside the surface\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "The Space Shuttle orbits 300 km above Earth’s surface; Earth’s radius is 6,400 km. What is the gravitational acceleration experienced by the Space Shuttle?\nChoose the best answer from the following options:\n0. Zero\n1. 4.9 m/s^2\n2. 9.8 m/s^2\n3. 8.9 m/s^2\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "An object of mass m1 experiences a linear, elastic collision with a stationary object of unknown mass. In addition to m1, what is the minimum necessary information that would allow you to determine the mass of the second object?\nChoose the best answer from the following options:\n0. The final speed of object 1\n1. The initial speed of object 1\n2. The final speed of object 2\n3. Any 2 of the above values\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "An electric motor has a label on it that reads: Input: 120V AC, 1.0 Amps, 60 Hz - Efficiency - 75%. At what constant speed can the motor lift up a 6 kg mass?\nChoose the best answer from the following options:\n0. 0.5 m/s\n1. 1.0 m/s\n2. 1.5 m/s\n3. 2.0 m/s\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "If two non-zero vectors are added together, and the resultant vector is zero, what must be true of the two vectors?\nChoose the best answer from the following options:\n0. They have equal magnitude and are pointed in the same direction.\n1. They have equal magnitude and are pointed in opposite directions.\n2. They have different magnitudes and are pointed in opposite directions.\n3. It is not possible for the sum of two non-zero vectors to be zero.\nAnswer: ",
+    "answer": 1
+  },
+  {
+    "question": "A 30 mF capacitor has 6 millicoulombs of charge on each plate. The energy stored in the capacitor is most nearly\nChoose the best answer from the following options:\n0. 5.4 × 10–10 J\n1. 9.0 × 10–8 J\n2. 0.6 J\n3. 12.5 J\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following changes to a double-slit interference experiment would increase the widths of the fringes in the interference pattern that appears on the screen?\nChoose the best answer from the following options:\n0. Use light of a shorter wavelength.\n1. Move the screen closer to the slits.\n2. Move the slits closer together.\n3. Use light with a lower wave speed.\nAnswer: ",
+    "answer": 2
+  },
+  {
+    "question": "Each of the following ionized isotopes is projected with the same speed into a uniform magnetic field B such that the isotope's initial velocity is perpendicular to B. Which combination of mass and charge would result in a circular path with the largest radius?\nChoose the best answer from the following options:\n0. m = 16 u, q = –5 e\n1. m = 17 u, q = –4 e\n2. m = 18 u, q = –3 e\n3. m = 20 u, q = –1 e\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "A confined ideal gas undergoes a cyclical process in three steps—an isobaric step, followed by an isochoric step, followed by an isothermal step. Which of the following must be true?\nChoose the best answer from the following options:\n0. The change in internal energy of the gas is equal to the work done during the isobaric step.\n1. The change in internal energy of the gas is equal to the work done during the isobaric step minus the work done during the isothermal step.\n2. The total work done during the cycle is positive.\n3. The total work done during the cycle is equal but opposite to the net amount of heat transferred.\nAnswer: ",
+    "answer": 3
+  },
+  {
+    "question": "Ultraviolet light has a wavelength of about 6 × 10^-8 m. What is the frequency of this light?\nChoose the best answer from the following options:\n0. 5 × 10^15 Hz\n1. 0.5 Hz\n2. 2 Hz\n3. 20 Hz\nAnswer: ",
+    "answer": 0
+  },
+  {
+    "question": "If L, M, and T denote the dimensions of length, mass, and time, respectively, what are the dimensions of impulse?\nChoose the best answer from the following options:\n0. LM/T^3\n1. LM/T^2\n2. LM/T\n3. L^2M/T^2\nAnswer: ",
+    "answer": 2
   }
 ]
