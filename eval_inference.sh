@@ -9,7 +9,7 @@ for subset in "${subsets[@]}"; do
     for prompt_type in "${prompt_types[@]}"; do
         echo "Evaluating for subset: $subset / prompt type: $prompt_type"
         python query_sglang.py \
-            --model 'llama2' \
+            --model 'claude-3-sonnet-20240229' \
             --subset "$subset" \
             --prompt_type "$prompt_type"
         
