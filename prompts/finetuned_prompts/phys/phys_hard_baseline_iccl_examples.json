@@ -1,0 +1,202 @@
+{
+    "0": {
+        "question": "By definition, the electric displacement current through a surface S is proportional to the\nChoose the best answer from the following options:\n0. rate of change of the electric flux through S\n1. electric flux through S\n2. time integral of the magnetic flux through S\n3. rate of change of the magnetic flux through S\nAnswer: 0\n\nUnpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?\nChoose the best answer from the following options:\n0. 100%\n1. 75%\n2. 50%\n3. 25%\nAnswer: ",
+        "answer": 3
+    },
+    "1": {
+        "question": "Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements regarding radiation spectra is NOT correct?\nChoose the best answer from the following options:\n0. Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.\n1. The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.\n2. Absorption spectra can be used to determine which elements are present in distant stars.\n3. Spectral analysis can be used to identify the composition of galactic dust.\nAnswer: 0\n\nWhich of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor?\nChoose the best answer from the following options:\n0. As\n1. P\n2. Sb\n3. B\nAnswer: ",
+        "answer": 3
+    },
+    "2": {
+        "question": "In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a\nChoose the best answer from the following options:\n0. square\n1. hexagon\n2. cube\n3. tetrahedron\nAnswer: 3\n\nThe emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are\nChoose the best answer from the following options:\n0. decreased by a factor of 9\n1. decreased by a factor of 49\n2. decreased by a factor of 81\n3. increased by a factor of 9\nAnswer: ",
+        "answer": 0
+    },
+    "3": {
+        "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nChoose the best answer from the following options:\n0. The Heisenberg uncertainty principle\n1. The Pauli exclusion principle\n2. The Bohr model of the atom\n3. Nuclear hyperfine coupling\nAnswer: 1\n\nA rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nChoose the best answer from the following options:\n0. 0.50c\n1. 0.60c\n2. 0.70c\n3. 0.80c\nAnswer: ",
+        "answer": 1
+    },
+    "4": {
+        "question": "At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the temperature was 12 K, typical objects in the universe, such as galaxies, were\nChoose the best answer from the following options:\n0. one-quarter as distant as they are today\n1. one-half as distant as they are today\n2. separated by about the same distances as they are today\n3. two times as distant as they are today\nAnswer: 0\n\nIn a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?\nChoose the best answer from the following options:\n0. 0\n1. 1/4\n2. 1/3\n3. 1/2\nAnswer: ",
+        "answer": 2
+    },
+    "5": {
+        "question": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is\nChoose the best answer from the following options:\n0. 500 nm\n1. 550 nm\n2. 600 nm\n3. 650 nm\nAnswer: 2\n\nProtons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nChoose the best answer from the following options:\n0. 0.25mc^2\n1. 0.60mc^2\n2. 0.67mc^2\n3. 1.25mc^2\nAnswer: ",
+        "answer": 0
+    },
+    "6": {
+        "question": "Assume that the solar flux at Earth\u2019s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting surface with an area of 3 m^2. What is the total radiation force exerted on the surface?\nChoose the best answer from the following options:\n0. 2 x 10^-6 N\n1. 1 x 10^-5 N\n2. 2 x 10^-5 N\n3. 3 N\nAnswer: 2\n\nWhich of the following is true about any system that undergoes a reversible thermodynamic process?\nChoose the best answer from the following options:\n0. There are no changes in the internal energy of the system.\n1. The temperature of the system remains constant during the process.\n2. The entropy of the system and its environment remains unchanged.\n3. The entropy of the system and its environment must increase.\nAnswer: ",
+        "answer": 2
+    },
+    "7": {
+        "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nChoose the best answer from the following options:\n0. 1\n1. 2\n2. 3\n3. 5\nAnswer: 3\n\nThe sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nChoose the best answer from the following options:\n0. Magnetic susceptibility\n1. Hall coefficient\n2. Electrical resistivity\n3. Thermal conductivity\nAnswer: ",
+        "answer": 1
+    },
+    "8": {
+        "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nChoose the best answer from the following options:\n0. 2\n1. 250\n2. 5,000\n3. 10,000\nAnswer: 1\n\nPositronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the positron replacing the proton. If a positronium atom makes a transition from the state with n=3 to a state with n=1, the energy of the photon emitted in this transition is closest to\nChoose the best answer from the following options:\n0. 6.0 e\n1. 6.8 eV\n2. 12.2 eV\n3. 13.6 eV\nAnswer: ",
+        "answer": 0
+    },
+    "9": {
+        "question": "Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nChoose the best answer from the following options:\n0. 0.25mc^2\n1. 0.60mc^2\n2. 0.67mc^2\n3. 1.25mc^2\nAnswer: 0\n\nUnpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?\nChoose the best answer from the following options:\n0. 100%\n1. 75%\n2. 50%\n3. 25%\nAnswer: ",
+        "answer": 3
+    },
+    "10": {
+        "question": "A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source for the interferometer is a laser with wavelength 632.2 nm, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas?\nChoose the best answer from the following options:\n0. 1.00063\n1. 1.00032\n2. 1.00016\n3. 0.99968\nAnswer: 1\n\nAn object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it hits the ground 2.0 s later, from what height was it thrown? (Neglect air resistance and assume the ground is level.)\nChoose the best answer from the following options:\n0. 4.9 m\n1. 9.8 m\n2. 10.0 m\n3. 19.6 m\nAnswer: ",
+        "answer": 3
+    },
+    "11": {
+        "question": "An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have?\nChoose the best answer from the following options:\n0. 2\n1. 4\n2. 6\n3. 10\nAnswer: 3\n\nAn astronomer observes a very small moon orbiting a planet and measures the moon\u2019s minimum and maximum distances from the planet\u2019s center and the moon\u2019s maximum orbital speed. Which of the following CANNOT be calculated from these measurements?\nChoose the best answer from the following options:\n0. Mass of the moon\n1. Mass of the planet\n2. Minimum speed of the moon\n3. Period of the orbit\nAnswer: ",
+        "answer": 0
+    },
+    "12": {
+        "question": "If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\nChoose the best answer from the following options:\n0. Decreases by a factor of 81.\n1. Decreases by a factor of 9.\n2. Increases by a factor of 9.\n3. Increases by a factor of 81.\nAnswer: 3\n\nAn astronomer observes a very small moon orbiting a planet and measures the moon\u2019s minimum and maximum distances from the planet\u2019s center and the moon\u2019s maximum orbital speed. Which of the following CANNOT be calculated from these measurements?\nChoose the best answer from the following options:\n0. Mass of the moon\n1. Mass of the planet\n2. Minimum speed of the moon\n3. Period of the orbit\nAnswer: ",
+        "answer": 0
+    },
+    "13": {
+        "question": "If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. What effect, if any, would this change have on the orbits of the planets?\nChoose the best answer from the following options:\n0. The planets would move directly toward the Sun.\n1. The planets would move in spiral orbits.\n2. The planets would oscillate about their former elliptical orbits.\n3. The orbits would remain unchanged.\nAnswer: 3\n\nA resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?\nChoose the best answer from the following options:\n0. 0.25 W\n1. 0.5 W\n2. 1 W\n3. 4 W\nAnswer: ",
+        "answer": 3
+    },
+    "14": {
+        "question": "Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball\u2019s mass is negligibly small.)\nChoose the best answer from the following options:\n0. 5%\n1. 10%\n2. 15%\n3. 20%\nAnswer: 3\n\nA rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nChoose the best answer from the following options:\n0. 0.50c\n1. 0.60c\n2. 0.70c\n3. 0.80c\nAnswer: ",
+        "answer": 1
+    },
+    "15": {
+        "question": "Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an allowed transition?\nChoose the best answer from the following options:\n0. n = 3, l = 2\n1. n = 3, l = 1\n2. n = 3, l = 0\n3. n = 2, l = 0\nAnswer: 1\n\nA grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nChoose the best answer from the following options:\n0. 2\n1. 250\n2. 5,000\n3. 10,000\nAnswer: ",
+        "answer": 1
+    },
+    "16": {
+        "question": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nChoose the best answer from the following options:\n0. 1.2 * 10^9 m/s\n1. 3.0 * 10^8 m/s\n2. 1.5 * 10^8 m/s\n3. 1.0 * 10^8 m/s\nAnswer: 2\n\nOne end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the spring and rests on a table. The mass is displaced 0.030 m from its equilibrium position and released. It has a speed of 0.040 m/s as it passes through its equilibrium position. In the absence of friction, what is the total mechanical energy of the system?\nChoose the best answer from the following options:\n0. 0.24 mJ\n1. 0.38 mJ\n2. 0.48 mJ\n3. 0.75 mJ\nAnswer: ",
+        "answer": 0
+    },
+    "17": {
+        "question": "An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have?\nChoose the best answer from the following options:\n0. 2\n1. 4\n2. 6\n3. 10\nAnswer: 3\n\nElectromagnetic radiation emitted from a nucleus is most likely to be in the form of\nChoose the best answer from the following options:\n0. gamma rays\n1. microwaves\n2. ultraviolet radiation\n3. visible light\nAnswer: ",
+        "answer": 0
+    },
+    "18": {
+        "question": "The driver of a police car hears an echo of the car\u2019s siren from a wall toward which the car is moving with a speed of 3.5 m/s. If the speed of sound is 350 m/s and the frequency of the siren is 600 Hz, the driver hears the echo at a frequency nearest to which of the following?\nChoose the best answer from the following options:\n0. 600 Hz\n1. 606 Hz\n2. 612 Hz\n3. 618 Hz\nAnswer: 2\n\nProtons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nChoose the best answer from the following options:\n0. 0.25mc^2\n1. 0.60mc^2\n2. 0.67mc^2\n3. 1.25mc^2\nAnswer: ",
+        "answer": 0
+    },
+    "19": {
+        "question": "Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A meterstick on one spaceship is measured to be 60 cm long by an occupant of the other spaceship. What is the speed of each spaceship, as measured by the observer on Earth?\nChoose the best answer from the following options:\n0. 0.4c\n1. 0.5c\n2. 0.6c\n3. 0.7c\nAnswer: 1\n\nUnder ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell\u2019s equations imply that which of the following must be true just outside the surface of the superconductor?\nChoose the best answer from the following options:\n0. B = 0\n1. B is perpendicular to the surface.\n2. B is tangential to the surface.\n3. B is time independent.\nAnswer: ",
+        "answer": 2
+    },
+    "20": {
+        "question": "A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source for the interferometer is a laser with wavelength 632.2 nm, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas?\nChoose the best answer from the following options:\n0. 1.00063\n1. 1.00032\n2. 1.00016\n3. 0.99968\nAnswer: 1\n\nThe speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nChoose the best answer from the following options:\n0. 1.2 x 10^9 m/s\n1. 3.0 x 10^8 m/s\n2. 1.5 x 10^8 m/s\n3. 1.0 x 10^8 m/s\nAnswer: ",
+        "answer": 2
+    },
+    "21": {
+        "question": "The best type of laser with which to do spectroscopy over a range of visible wavelengths is\nChoose the best answer from the following options:\n0. a dye laser\n1. a helium-neon laser\n2. an excimer laser\n3. a ruby laser\nAnswer: 0\n\nA uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction of the disk\u2019s total kinetic energy is rotational kinetic energy?\nChoose the best answer from the following options:\n0. 1/4\n1. 1/3\n2. 1/2\n3. 2/3\nAnswer: ",
+        "answer": 1
+    },
+    "22": {
+        "question": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nChoose the best answer from the following options:\n0. 1.2 x 10^9 m/s\n1. 3.0 x 10^8 m/s\n2. 1.5 x 10^8 m/s\n3. 1.0 x 10^8 m/s\nAnswer: 2\n\nTwo simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The two pendulums oscillate in equal gravitational fields. If the period of pendulum B is twice the period of pendulum A, which of the following is true of the lengths of the two pendulums?\nChoose the best answer from the following options:\n0. L_B = 4L_A\n1. L_B = 2L_A\n2. L_B = L_A\n3. L_B = 1/2 L_A\nAnswer: ",
+        "answer": 0
+    },
+    "23": {
+        "question": "Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\nChoose the best answer from the following options:\n0. Diode laser\n1. Dye laser\n2. Free-electron laser\n3. Gas laser\nAnswer: 3\n\nA 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels 5 m with the constant force applied. The force is then removed, leaving the box with a speed of 2 m/s. Which of the following gives the magnitude of the applied force?\nChoose the best answer from the following options:\n0. 1 N\n1. 2 N\n2. 3 N\n3. 4 N\nAnswer: ",
+        "answer": 2
+    },
+    "24": {
+        "question": "A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then passes through a region with a uniform electric field E in the +x-direction and a uniform magnetic field B in the +y-direction, but the proton\u2019s trajectory is not affected. If the experiment were repeated using a potential difference of 2V, the proton would then be\nChoose the best answer from the following options:\n0. deflected in the +x-direction\n1. deflected in the -x-direction\n2. deflected in the +y-direction\n3. deflected in the -y-direction\nAnswer: 1\n\nThe quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\nChoose the best answer from the following options:\n0. exactly 10 times\n1. an average of 10 times, with an rms deviation of about 0.1\n2. an average of 10 times, with an rms deviation of about 1\n3. an average of 10 times, with an rms deviation of about 3\nAnswer: ",
+        "answer": 3
+    },
+    "25": {
+        "question": "The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of\nChoose the best answer from the following options:\n0. 2\n1. 4\n2. 8\n3. 16\nAnswer: 3\n\nThe speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nChoose the best answer from the following options:\n0. 1.2 x 10^9 m/s\n1. 3.0 x 10^8 m/s\n2. 1.5 x 10^8 m/s\n3. 1.0 x 10^8 m/s\nAnswer: ",
+        "answer": 2
+    },
+    "26": {
+        "question": "Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m across. At about what frequency will the sound first disappear at an angle of 45q from the normal to the speaker face?\nChoose the best answer from the following options:\n0. 500 Hz\n1. 1,750 Hz\n2. 2,750 Hz\n3. 3,500 Hz\nAnswer: 3\n\nThe eigenvalues of a Hermitian operator are always\nChoose the best answer from the following options:\n0. real\n1. imaginary\n2. degenerate\n3. linear\nAnswer: ",
+        "answer": 0
+    },
+    "27": {
+        "question": "De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\nChoose the best answer from the following options:\n0. Planck\u2019s constant\n1. Boltzmann\u2019s constant\n2. The Rydberg constant\n3. The speed of light\nAnswer: 0\n\nWhich of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor?\nChoose the best answer from the following options:\n0. As\n1. P\n2. Sb\n3. B\nAnswer: ",
+        "answer": 3
+    },
+    "28": {
+        "question": "The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of 100 m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is\nChoose the best answer from the following options:\n0. 10,000 J\n1. 100,000 J\n2. 1,000,000 J\n3. 10,000,000 J\nAnswer: 2\n\nThe suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of 100 m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is\nChoose the best answer from the following options:\n0. 100 J\n1. 1,000 J\n2. 10,000 J\n3. 1,000,000 J\nAnswer: ",
+        "answer": 3
+    },
+    "29": {
+        "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nChoose the best answer from the following options:\n0. 2\n1. 250\n2. 5,000\n3. 10,000\nAnswer: 1\n\nA satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is\nChoose the best answer from the following options:\n0. independent of M\n1. proportional to m^(1/2)\n2. linear in R\n3. proportional to R^(3/2)\nAnswer: ",
+        "answer": 3
+    },
+    "30": {
+        "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nChoose the best answer from the following options:\n0. The Heisenberg uncertainty principle\n1. The Pauli exclusion principle\n2. The Bohr model of the atom\n3. Nuclear hyperfine coupling\nAnswer: 1\n\nA rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nChoose the best answer from the following options:\n0. 0.50c\n1. 0.60c\n2. 0.70c\n3. 0.80c\nAnswer: ",
+        "answer": 1
+    },
+    "31": {
+        "question": "Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nChoose the best answer from the following options:\n0. 0.25mc^2\n1. 0.60mc^2\n2. 0.67mc^2\n3. 1.25mc^2\nAnswer: 0\n\nWhich of the following lasers utilizes transitions that involve the energy levels of free atoms?\nChoose the best answer from the following options:\n0. Diode laser\n1. Dye laser\n2. Free-electron laser\n3. Gas laser\nAnswer: ",
+        "answer": 3
+    },
+    "32": {
+        "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the\nChoose the best answer from the following options:\n0. work function of the metal is proportional to the frequency\n1. work function of the metal is proportional to the wavelength\n2. current in the tube is a linear function of the wavelength\n3. potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency\nAnswer: 3\n\nConsider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\nChoose the best answer from the following options:\n0. V_0/5\n1. V_0/3\n2. V_0/2\n3. 2V_0/3\nAnswer: ",
+        "answer": 3
+    },
+    "33": {
+        "question": "An astronomer observes a very small moon orbiting a planet and measures the moon\u2019s minimum and maximum distances from the planet\u2019s center and the moon\u2019s maximum orbital speed. Which of the following CANNOT be calculated from these measurements?\nChoose the best answer from the following options:\n0. Mass of the moon\n1. Mass of the planet\n2. Minimum speed of the moon\n3. Period of the orbit\nAnswer: 0\n\nA spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is\nChoose the best answer from the following options:\n0. k\n1. 2k\n2. 4k\n3. 8k\nAnswer: ",
+        "answer": 3
+    },
+    "34": {
+        "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the\nChoose the best answer from the following options:\n0. work function of the metal is proportional to the frequency\n1. work function of the metal is proportional to the wavelength\n2. current in the tube is a linear function of the wavelength\n3. potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency\nAnswer: 3\n\nThe best type of laser with which to do spectroscopy over a range of visible wavelengths is\nChoose the best answer from the following options:\n0. a dye laser\n1. a helium-neon laser\n2. an excimer laser\n3. a ruby laser\nAnswer: ",
+        "answer": 0
+    },
+    "35": {
+        "question": "A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels 5 m with the constant force applied. The force is then removed, leaving the box with a speed of 2 m/s. Which of the following gives the magnitude of the applied force?\nChoose the best answer from the following options:\n0. 1 N\n1. 2 N\n2. 3 N\n3. 4 N\nAnswer: 2\n\nWhich of the following is true about any system that undergoes a reversible thermodynamic process?\nChoose the best answer from the following options:\n0. There are no changes in the internal energy of the system.\n1. The temperature of the system remains constant during the process.\n2. The entropy of the system and its environment remains unchanged.\n3. The entropy of the system and its environment must increase.\nAnswer: ",
+        "answer": 2
+    },
+    "36": {
+        "question": "A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is\nChoose the best answer from the following options:\n0. 0.09 J\n1. 0.18 J\n2. 0.27 J\n3. 0.41 J\nAnswer: 0\n\nThe driver of a police car hears an echo of the car\u2019s siren from a wall toward which the car is moving with a speed of 3.5 m/s. If the speed of sound is 350 m/s and the frequency of the siren is 600 Hz, the driver hears the echo at a frequency nearest to which of the following?\nChoose the best answer from the following options:\n0. 588 Hz\n1. 594 Hz\n2. 600 Hz\n3. 612 Hz\nAnswer: ",
+        "answer": 3
+    },
+    "37": {
+        "question": "A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is\nChoose the best answer from the following options:\n0. k\n1. 2k\n2. 4k\n3. 8k\nAnswer: 3\n\nThe best type of laser with which to do spectroscopy over a range of visible wavelengths is\nChoose the best answer from the following options:\n0. a dye laser\n1. a helium-neon laser\n2. an excimer laser\n3. a ruby laser\nAnswer: ",
+        "answer": 0
+    },
+    "38": {
+        "question": "Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\nChoose the best answer from the following options:\n0. Diode laser\n1. Dye laser\n2. Free-electron laser\n3. Gas laser\nAnswer: 3\n\nTwo simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The two pendulums oscillate in equal gravitational fields. If the period of pendulum B is twice the period of pendulum A, which of the following is true of the lengths of the two pendulums?\nChoose the best answer from the following options:\n0. L_B = 4L_A\n1. L_B = 2L_A\n2. L_B = L_A\n3. L_B = 1/2 L_A\nAnswer: ",
+        "answer": 0
+    },
+    "39": {
+        "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nChoose the best answer from the following options:\n0. 2\n1. 250\n2. 5,000\n3. 10,000\nAnswer: 1\n\nIf the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle\u2019s relativistic momentum is\nChoose the best answer from the following options:\n0. mc/2\n1. mc/(2^(1/2))\n2. mc\n3. (3^(1/2))mc\nAnswer: ",
+        "answer": 3
+    },
+    "40": {
+        "question": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is\nChoose the best answer from the following options:\n0. 2c\n1. c\n2. 0.8c\n3. 0.5c\nAnswer: 2\n\nThe emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are\nChoose the best answer from the following options:\n0. decreased by a factor of 9\n1. decreased by a factor of 49\n2. decreased by a factor of 81\n3. increased by a factor of 9\nAnswer: ",
+        "answer": 0
+    },
+    "41": {
+        "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)\nChoose the best answer from the following options:\n0. 0.1 eV\n1. 1 eV\n2. 10 eV\n3. 100 eV\nAnswer: 2\n\nThe quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\nChoose the best answer from the following options:\n0. exactly 10 times\n1. an average of 10 times, with an rms deviation of about 0.1\n2. an average of 10 times, with an rms deviation of about 1\n3. an average of 10 times, with an rms deviation of about 3\nAnswer: ",
+        "answer": 3
+    },
+    "42": {
+        "question": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\nChoose the best answer from the following options:\n0. V_0/5\n1. V_0/3\n2. V_0/2\n3. 2V_0/3\nAnswer: 3\n\nThe coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?\nChoose the best answer from the following options:\n0. 0.024 m\n1. 0.048 m\n2. 0.121 m\n3. 0.242 m\nAnswer: ",
+        "answer": 3
+    },
+    "43": {
+        "question": "Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the positron replacing the proton. If a positronium atom makes a transition from the state with n=3 to a state with n=1, the energy of the photon emitted in this transition is closest to\nChoose the best answer from the following options:\n0. 6.0 e\n1. 6.8 eV\n2. 12.2 eV\n3. 13.6 eV\nAnswer: 0\n\nThe energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is required to ionize helium (i.e., to remove one electron)?\nChoose the best answer from the following options:\n0. 24.6 eV\n1. 39.5 eV\n2. 51.8 eV\n3. 54.4 eV\nAnswer: ",
+        "answer": 0
+    },
+    "44": {
+        "question": "A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. What is the particle\u2019s mass if it has a cyclotron frequency of 1,600 hertz?\nChoose the best answer from the following options:\n0. 2.5 * 10^-23 kg\n1. 1.2 * 10^-22 kg\n2. 3.3 * 10^-22 kg\n3. 5.0 * 10^-21 kg\nAnswer: 0\n\nThe eigenvalues of a Hermitian operator are always\nChoose the best answer from the following options:\n0. real\n1. imaginary\n2. degenerate\n3. linear\nAnswer: ",
+        "answer": 0
+    },
+    "45": {
+        "question": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is\nChoose the best answer from the following options:\n0. 2c\n1. c\n2. 0.8c\n3. 0.5c\nAnswer: 2\n\nAccording to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\nChoose the best answer from the following options:\n0. the weak nuclear force\n1. the strong nuclear force\n2. vacuum polarization\n3. interactions with the ionic lattice\nAnswer: ",
+        "answer": 3
+    },
+    "46": {
+        "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nChoose the best answer from the following options:\n0. The Heisenberg uncertainty principle\n1. The Pauli exclusion principle\n2. The Bohr model of the atom\n3. Nuclear hyperfine coupling\nAnswer: 1\n\nA rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nChoose the best answer from the following options:\n0. 0.50c\n1. 0.60c\n2. 0.70c\n3. 0.80c\nAnswer: ",
+        "answer": 1
+    },
+    "47": {
+        "question": "The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of 100 m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is\nChoose the best answer from the following options:\n0. 10,000 J\n1. 100,000 J\n2. 1,000,000 J\n3. 10,000,000 J\nAnswer: 2\n\nWhite light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is\nChoose the best answer from the following options:\n0. 500 nm\n1. 550 nm\n2. 600 nm\n3. 650 nm\nAnswer: ",
+        "answer": 2
+    },
+    "48": {
+        "question": "A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then passes through a region with a uniform electric field E in the +x-direction and a uniform magnetic field B in the +y-direction, but the proton\u2019s trajectory is not affected. If the experiment were repeated using a potential difference of 2V, the proton would then be\nChoose the best answer from the following options:\n0. deflected in the +x-direction\n1. deflected in the -x-direction\n2. deflected in the +y-direction\n3. deflected in the -y-direction\nAnswer: 1\n\nA meter stick with a speed of 0.8c moves past an observer. In the observer\u2019s reference frame, how long does it take the stick to pass the observer ?\nChoose the best answer from the following options:\n0. 1.6 ns\n1. 2.5 ns\n2. 4.2 ns\n3. 6.9 ns\nAnswer: ",
+        "answer": 1
+    },
+    "49": {
+        "question": "A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as the tube enters it. What is the speed of light in the water relative to the lab frame? (The index of refraction of water is 4/3.)\nChoose the best answer from the following options:\n0. 1/2 c\n1. 2/3 c\n2. 5/6 c\n3. 10/11 c\nAnswer: 3\n\nA uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction of the disk\u2019s total kinetic energy is rotational kinetic energy?\nChoose the best answer from the following options:\n0. 1/4\n1. 1/3\n2. 1/2\n3. 2/3\nAnswer: ",
+        "answer": 1
+    }
+}

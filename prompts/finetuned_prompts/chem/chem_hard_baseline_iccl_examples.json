@@ -1,0 +1,202 @@
+{
+    "0": {
+        "question": "Of the following atoms, which has the lowest electron affinity?\nChoose the best answer from the following options:\n0. F\n1. Si\n2. O\n3. Ca\nAnswer: 3\n\nA radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)\nChoose the best answer from the following options:\n0. 150 mCi\n1. 38 mCi\n2. 19 mCi\n3. 9.4 mCi\nAnswer: ",
+        "answer": 3
+    },
+    "1": {
+        "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\nChoose the best answer from the following options:\n0. 1:1\n1. 1:3\n2. 1:6\n3. 2:3\nAnswer: 2\n\nA single line is seen in the 31P spectrum of a solution of sodium phosphate. The 31P chemical shifts of H2PO4\u203e and HPO42\u2013 are 3.42 ppm and 5.82 ppm respectively. What is the chemical shift when the pH of the solution equals the pKa of H2PO4\u203e?\nChoose the best answer from the following options:\n0. 3.41 ppm\n1. 3.98 ppm\n2. 4.33 ppm\n3. 4.62 ppm\nAnswer: ",
+        "answer": 3
+    },
+    "2": {
+        "question": "A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?\nChoose the best answer from the following options:\n0. It has little effect.\n1. It significantly increases the pH.\n2. It significantly decreases the pH.\n3. It changes the pH asymptotically to the pKa of the acid.\nAnswer: 0\n\nNitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J >> a?\nChoose the best answer from the following options:\n0. 3 lines\n1. 9 lines\n2. 5 lines\n3. 7 lines\nAnswer: ",
+        "answer": 3
+    },
+    "3": {
+        "question": "A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?\nChoose the best answer from the following options:\n0. It has little effect.\n1. It significantly increases the pH.\n2. It significantly decreases the pH.\n3. It changes the pH asymptotically to the pKa of the acid.\nAnswer: 0\n\nThe X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.\nChoose the best answer from the following options:\n0. g = 2.002\n1. g = 1.950\n2. g = 2.250\n3. g = 2.005\nAnswer: ",
+        "answer": 0
+    },
+    "4": {
+        "question": "Of the following atoms, which has the lowest electron affinity?\nChoose the best answer from the following options:\n0. F\n1. Si\n2. O\n3. Ca\nAnswer: 3\n\nA radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)\nChoose the best answer from the following options:\n0. 150 mCi\n1. 38 mCi\n2. 19 mCi\n3. 9.4 mCi\nAnswer: ",
+        "answer": 3
+    },
+    "5": {
+        "question": "The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their\nChoose the best answer from the following options:\n0. electron distribution\n1. dipole moment\n2. force constant\n3. reduced mass\nAnswer: 3\n\nWhich of the following is a true statement about optical isomerism of complexes containing achiral ligands?\nChoose the best answer from the following options:\n0. Square planar complexes can display optical isomerism only if all four ligands are identical.\n1. Tetrahedral complexes never display optical isomerism.\n2. Linear complexes can display optical isomerism when both ligands are different.\n3. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.\nAnswer: ",
+        "answer": 3
+    },
+    "6": {
+        "question": "Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples\nChoose the best answer from the following options:\n0. I only\n1. II only\n2. III only\n3. I and III only\nAnswer: 3\n\nCalculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.\nChoose the best answer from the following options:\n0. 0.5 T\n1. 1.2 T\n2. 2.9 T\n3. 100 T\nAnswer: ",
+        "answer": 2
+    },
+    "7": {
+        "question": "The dissociation energy for a hydrogen-bromine bond is defined as the change in enthalpy, DH, for which of the following reactions?\nChoose the best answer from the following options:\n0. 2 HBr(g) \u2192 H2(g) + Br2(l)\n1. HBr(g) \u2192 H+(g) + Br\u2212(g)\n2. H(g) + Br(g) \u2192 HBr(g)\n3. HBr(g) \u2192 H(g) + Br(g)\nAnswer: 3\n\nCalculate spin density on the central carbon atom of malonic acid radical (\u2022CH(COOH)2) if the hyperfine value for the \u03b1-hydrogen atom is 21.9 G.\nChoose the best answer from the following options:\n0. 0.95\n1. 0.85\n2. 0.15\n3. 0.65\nAnswer: ",
+        "answer": 2
+    },
+    "8": {
+        "question": "Of the following compounds, which has the lowest melting point?\nChoose the best answer from the following options:\n0. HCl\n1. AgCl\n2. CaCl2\n3. CCl4\nAnswer: 0\n\nWhich of the following must be true about a binary liquid mixture that obeys Raoult\u2019s law?\nI. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture.\nII. The volume of the mixture is equal to the sum of the volumes of each component before mixing.\nIII. Intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components.\nChoose the best answer from the following options:\n0. I only\n1. III only\n2. I and III only\n3. I, II, and III\nAnswer: ",
+        "answer": 3
+    },
+    "9": {
+        "question": "A silyl radical bearing an Si-H\u00b7 fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1.\nChoose the best answer from the following options:\n0. 15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1\n1. 15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1\n2. 15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1\n3. 15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1\nAnswer: 1\n\nCalculate spin density on the central carbon atom of malonic acid radical (\u2022CH(COOH)2) if the hyperfine value for the \u03b1-hydrogen atom is 21.9 G.\nChoose the best answer from the following options:\n0. 0.95\n1. 0.85\n2. 0.15\n3. 0.65\nAnswer: ",
+        "answer": 2
+    },
+    "10": {
+        "question": "Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)\nChoose the best answer from the following options:\n0. 0.050 M AlCl3\n1. 0.100 M NaCl\n2. 0.050 M CaCl2\n3. 0.100 M HCl\nAnswer: 0\n\nCalculate the magnetic moment (\u03bcI) of a 13C nucleus.\nChoose the best answer from the following options:\n0. 6.1445 x 10^-27 J T-1\n1. 3.1445 x 10^-27 J T-1\n2. 9.1445 x 10^-27 J T-1\n3. 1.1445 x 10^-28 J T-1\nAnswer: ",
+        "answer": 2
+    },
+    "11": {
+        "question": "Of the following compounds, which has the lowest melting point?\nChoose the best answer from the following options:\n0. HCl\n1. AgCl\n2. CaCl2\n3. CCl4\nAnswer: 0\n\nWhich of the following is classified as a conjugate acid-base pair?\nChoose the best answer from the following options:\n0. HCl / NaOH\n1. H3O+ / H2O\n2. O2 / H2O\n3. H+ / Cl\u2212\nAnswer: ",
+        "answer": 1
+    },
+    "12": {
+        "question": "Which of the following statements most accurately explains why the T1 of a nucleus is sometimes longer than its T2?\nChoose the best answer from the following options:\n0. T1, unlike T2, is sensitive to very low-frequency molecular motions.\n1. T2, unlike T1, is sensitive to very low-frequency molecular motions.\n2. T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.\n3. T2, unlike T1, is sensitive to molecular motions at the Larmor frequency.\nAnswer: 3\n\nThe equilibrium populations of the 1H energy levels of a molecule are n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq. What are the populations after a 5.0 \u03bcs pulse when B1 = 4.697 mT?\nChoose the best answer from the following options:\n0. n\u03b1 = n\u03b2eq and n\u03b2 = n\u03b1eq\n1. n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq\n2. n\u03b1 = \u00bd(n\u03b1eq + n\u03b2eq) and n\u03b2 = \u00bd(n\u03b1eq + n\u03b2eq)\n3. n\u03b1 = n\u03b1eq + n\u03b2eq and n\u03b2 = n\u03b1eq + n\u03b2eq\nAnswer: ",
+        "answer": 0
+    },
+    "13": {
+        "question": "Which of the following is the most common naturally-occurring form in which silicon is found?\nChoose the best answer from the following options:\n0. Metallic element\n1. Sulfide\n2. Fluoride\n3. Oxide\nAnswer: 3\n\nOf the following compounds, which has the lowest melting point?\nChoose the best answer from the following options:\n0. HCl\n1. AgCl\n2. CaCl2\n3. CCl4\nAnswer: ",
+        "answer": 0
+    },
+    "14": {
+        "question": "What is the strength (B1) of a 13C 90\u00b0 pulse of duration 1 \u03bcs?\nChoose the best answer from the following options:\n0. 3.72 mT\n1. 5.18 mT\n2. 17.0 mT\n3. 23.3 mT\nAnswer: 1\n\nWhat is the maximum number of phases that can be at equilibrium with each other in a three component mixture?\nChoose the best answer from the following options:\n0. 2\n1. 3\n2. 4\n3. 5\nAnswer: ",
+        "answer": 3
+    },
+    "15": {
+        "question": "The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?\nChoose the best answer from the following options:\n0. hexane\n1. 2-methylpentane\n2. 3-methylpentane\n3. 2,3-dimethylbutane\nAnswer: 1\n\nCalculate the Larmor frequency for a proton in a magnetic field of 1 T.\nChoose the best answer from the following options:\n0. 23.56 GHz\n1. 42.58 MHz\n2. 74.34 kHz\n3. 13.93 MHz\nAnswer: ",
+        "answer": 1
+    },
+    "16": {
+        "question": "Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.\nChoose the best answer from the following options:\n0. Q = 1012\n1. Q = 2012\n2. Q = 3012\n3. Q = 6012\nAnswer: 3\n\nCalculate the spin angular momentum of 43Ca. [I = 7\u20442]\nChoose the best answer from the following options:\n0. 2.166 x 10^-34 J s\n1. 3.691 x 10^-34 J s\n2. 4.185 x 10^-34 J s\n3. 5.493 x 10^-34 J s\nAnswer: ",
+        "answer": 2
+    },
+    "17": {
+        "question": "The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?\nChoose the best answer from the following options:\n0. hexane\n1. 2-methylpentane\n2. 3-methylpentane\n3. 2,3-dimethylbutane\nAnswer: 1\n\nWhich one of the following statements is true:\nChoose the best answer from the following options:\n0. Large and positive g shifts are observed when the LUMO \u2013 HOMO gap is small and \u03bb is positive.\n1. Large deviations in g occurs when the energy difference between the SOMO and lowest lying excited state is large.\n2. A large deviation of g from ge is expected when \u03bb is large and the energy difference between the SOMO and the lowest lying excited state is small.\n3. A small deviation of g from ge is expected when \u03bb is small and positive.\nAnswer: ",
+        "answer": 2
+    },
+    "18": {
+        "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\nChoose the best answer from the following options:\n0. 1:1\n1. 1:3\n2. 1:6\n3. 2:3\nAnswer: 2\n\nCobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?\nChoose the best answer from the following options:\n0. Neutrons\n1. Alpha particles\n2. Beta particles\n3. X-rays\nAnswer: ",
+        "answer": 0
+    },
+    "19": {
+        "question": "The equilibrium populations of the 1H energy levels of a molecule are n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq. What are the populations after a 5.0 \u03bcs pulse when B1 = 4.697 mT?\nChoose the best answer from the following options:\n0. n\u03b1 = n\u03b2eq and n\u03b2 = n\u03b1eq\n1. n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq\n2. n\u03b1 = \u00bd(n\u03b1eq + n\u03b2eq) and n\u03b2 = \u00bd(n\u03b1eq + n\u03b2eq)\n3. n\u03b1 = n\u03b1eq + n\u03b2eq and n\u03b2 = n\u03b1eq + n\u03b2eq\nAnswer: 0\n\nWhat is the magnetic moment of 205Tl?\nChoose the best answer from the following options:\n0. [\u0263 (205TI = 1.569 x 108 T-1 s-1, I = \u00bd]\n1. 0.717 x 10^-26 J T-1\n2. 0.827 x 10^-26 J T-1\n3. 1.433 x 10^-26 J T-1\nAnswer: ",
+        "answer": 2
+    },
+    "20": {
+        "question": "All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a \u03c0 \u2192 \u03c0* excitation in the protein molecule. In which region of the spectrum is this wavelength found?\nChoose the best answer from the following options:\n0. X-ray\n1. Ultraviolet\n2. Visible\n3. Infrared\nAnswer: 1\n\nThe solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?\nChoose the best answer from the following options:\n0. B12 icosahedra\n1. B8 cubes\n2. B6 octahedra\n3. B4 tetrahedra\nAnswer: ",
+        "answer": 0
+    },
+    "21": {
+        "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.\nChoose the best answer from the following options:\n0. g = 2.002\n1. g = 1.950\n2. g = 2.250\n3. g = 2.005\nAnswer: 0\n\n23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?\nChoose the best answer from the following options:\n0. 101.1 x 10^7 T-1 s-1\n1. 26.75 x 10^7 T-1 s-1\n2. 7.081 x 10^7 T-1 s-1\n3. 0.9377 x 10^7 T-1 s-1\nAnswer: ",
+        "answer": 2
+    },
+    "22": {
+        "question": "Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?\nChoose the best answer from the following options:\n0. CH3F\n1. CH3Cl\n2. CH3Br\n3. CH3I\nAnswer: 1\n\nWhich of the following is an n-type semiconductor?\nChoose the best answer from the following options:\n0. Silicon\n1. Diamond\n2. Silicon carbide\n3. Arsenic-doped silicon\nAnswer: ",
+        "answer": 3
+    },
+    "23": {
+        "question": "Which of the following experimental observations were explained by Planck\u2019s quantum theory?\nChoose the best answer from the following options:\n0. Blackbody radiation curves\n1. Emission spectra of diatomic molecules\n2. Electron diffraction patterns\n3. Temperature dependence of reaction rates\nAnswer: 0\n\nThe 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\nChoose the best answer from the following options:\n0. 1:1\n1. 1:3\n2. 1:6\n3. 2:3\nAnswer: ",
+        "answer": 2
+    },
+    "24": {
+        "question": "Exact solutions of the Schr\u00f6dinger equation CANNOT be obtained for a\nChoose the best answer from the following options:\n0. simple harmonic oscillator\n1. particle in a one-dimensional box\n2. rigid rotor\n3. helium atom\nAnswer: 3\n\nThe dissociation energy for a hydrogen-bromine bond is defined as the change in enthalpy, DH, for which of the following reactions?\nChoose the best answer from the following options:\n0. 2 HBr(g) \u2192 H2(g) + Br2(l)\n1. HBr(g) \u2192 H+(g) + Br\u2212(g)\n2. H(g) + Br(g) \u2192 HBr(g)\n3. HBr(g) \u2192 H(g) + Br(g)\nAnswer: ",
+        "answer": 3
+    },
+    "25": {
+        "question": "A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the expected resonant field positions of both lines in the X-band EPR spectrum (\u03bd = 9.5 GHz).\nChoose the best answer from the following options:\n0. Bres for mI = -\u00bd = 325.0 mT; Bres for mI = +\u00bd = 335.0 mT\n1. Bres for mI = -\u00bd = 123.5 mT; Bres for mI = +\u00bd = 124.5 mT.\n2. Bres for mI = -\u00bd = 333.5 mT; Bres for mI = +\u00bd = 343.5 mT.\n3. Bres for mI = -\u00bd = 0.218 mT; Bres for mI = +\u00bd = 0.418 mT.\nAnswer: 3\n\nThe magnetic moment (\u03bcI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide.\nChoose the best answer from the following options:\n0. 14N\n1. 2H\n2. 19F\n3. 6Li\nAnswer: ",
+        "answer": 1
+    },
+    "26": {
+        "question": "Which one sentence explains most accurately why spin trapping is often used to detect free radical intermediates?\nChoose the best answer from the following options:\n0. spin trapping provides more structural information than direct detection by EPR\n1. spin trapping makes it easy to quantify free radical intermediates\n2. steady state concentration of free radical intermediates is often too low to enable direct detection by EPR\n3. detection of spin adducts requires lower power than direct detection of radical intermediates\nAnswer: 3\n\nCalculate spin density on the central carbon atom of malonic acid radical (\u2022CH(COOH)2) if the hyperfine value for the \u03b1-hydrogen atom is 21.9 G.\nChoose the best answer from the following options:\n0. 0.95\n1. 0.85\n2. 0.15\n3. 0.65\nAnswer: ",
+        "answer": 2
+    },
+    "27": {
+        "question": "Of the following ions, which has the smallest radius?\nChoose the best answer from the following options:\n0. K+\n1. Ca2+\n2. Sc3+\n3. Rb+\nAnswer: 2\n\nWhich of the following is a true statement about optical isomerism of complexes containing achiral ligands?\nChoose the best answer from the following options:\n0. Square planar complexes can display optical isomerism only if all four ligands are identical.\n1. Tetrahedral complexes never display optical isomerism.\n2. Linear complexes can display optical isomerism when both ligands are different.\n3. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.\nAnswer: ",
+        "answer": 3
+    },
+    "28": {
+        "question": "Suppose that the 13C nuclei in a molecule in a 600 MHz spectrometer can be 100% polarized (p = 1). If T1 = 5.0 s, how long does it take for p to reach a value equal to twice the thermal equilibrium polarization at 298 K?\nChoose the best answer from the following options:\n0. [The polarization relaxes exponentially: p(t) = [p(0) - peq]exp(-t/T1) + peq.]\n1. 72.0 s\n2. 56.6 s\n3. 12.7 s\nAnswer: 1\n\nThe 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. Assuming that the chemical shift differences are dominated by paramagnetic currents, determine the chemical shift of [Ru(NH3)6]2+.\nChoose the best answer from the following options:\n0. 7,530 ppm\n1. 8,090 ppm\n2. 11,070 ppm\n3. 14,840 ppm\nAnswer: ",
+        "answer": 1
+    },
+    "29": {
+        "question": "On the basis of oxidation-reduction potential, which of the following is most likely to occur?\nChoose the best answer from the following options:\n0. Al(s) + 3 NaNO3(aq) 3 Na(s) + Al(NO3)3(aq)\n1. Zn(s) + 2 Ag(NO3)(aq) \u2192 2 Ag(s) + Zn(NO3)2(aq)\n2. Pb(s) + Ca(NO3)2(aq) \u2192 Ca(s) + Pb(NO3)2(aq)\n3. Pb(s) + 2 LiNO3(aq) \u2192 2 Li(s) + Pb(NO3)2(aq)\nAnswer: 1\n\nWhat is the NMR frequency of 31P in a 20.0 T magnetic field?\nChoose the best answer from the following options:\n0. 54.91 MHz\n1. 239.2 MHz\n2. 345.0 MHz\n3. 2167 MHz\nAnswer: ",
+        "answer": 2
+    },
+    "30": {
+        "question": "Calculate the relative occupancies of the \u03b1 and \u03b2 spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies (take TS = 300 K).\nChoose the best answer from the following options:\n0. N\u03b1/N\u03b2 = 0.9800 at L-band; N\u03b1/N\u03b2 = 0.9509 at W-band\n1. N\u03b1/N\u03b2 = 0.9950 at L-band; N\u03b1/N\u03b2 = 0.9609 at W-band\n2. N\u03b1/N\u03b2 = 0.9910 at L-band; N\u03b1/N\u03b2 = 0.9709 at W-band\n3. N\u03b1/N\u03b2 = 0.9850 at L-band; N\u03b1/N\u03b2 = 0.9809 at W-band\nAnswer: 3\n\nThe +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?\nChoose the best answer from the following options:\n0. B\n1. Al\n2. In\n3. Tl\nAnswer: ",
+        "answer": 3
+    },
+    "31": {
+        "question": "The rate, r, of a zero-order chemical reaction A \u2192 B can be expressed as which of the following?\nChoose the best answer from the following options:\n0. r = k ln[A]\n1. r = k [A]^2\n2. r = k [A]\n3. r = k\nAnswer: 3\n\nWhich of the following is a true statement about optical isomerism of complexes containing achiral ligands?\nChoose the best answer from the following options:\n0. Square planar complexes can display optical isomerism only if all four ligands are identical.\n1. Tetrahedral complexes never display optical isomerism.\n2. Linear complexes can display optical isomerism when both ligands are different.\n3. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.\nAnswer: ",
+        "answer": 3
+    },
+    "32": {
+        "question": "When the following equation is balanced, which of the following is true?\n__ MnO4\u2212 + __ I\u2212 + __ H+ <-> __ Mn2+ + __ IO3\u2212 + __ H2O\nChoose the best answer from the following options:\n0. The I\u2212 : IO3\u2212 ratio is 3:1.\n1. The MnO4- : I- ratio is 6:5.\n2. The MnO4- : Mn2+ ratio is 3:1.\n3. The H+ : I\u2212 ratio is 2:1.\nAnswer: 1\n\nNitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J >> a?\nChoose the best answer from the following options:\n0. 3 lines\n1. 9 lines\n2. 5 lines\n3. 7 lines\nAnswer: ",
+        "answer": 3
+    },
+    "33": {
+        "question": "Which of the following is lower for argon than for neon?\nChoose the best answer from the following options:\n0. Melting point\n1. Boiling point\n2. Polarizability\n3. First ionization energy\nAnswer: 3\n\nCalculate the magnetic moment (\u03bcI) of a 13C nucleus.\nChoose the best answer from the following options:\n0. 6.1445 x 10^-27 J T-1\n1. 3.1445 x 10^-27 J T-1\n2. 9.1445 x 10^-27 J T-1\n3. 1.1445 x 10^-28 J T-1\nAnswer: ",
+        "answer": 2
+    },
+    "34": {
+        "question": "Which one sentence explains most accurately why spin trapping is often used to detect free radical intermediates?\nChoose the best answer from the following options:\n0. spin trapping provides more structural information than direct detection by EPR\n1. spin trapping makes it easy to quantify free radical intermediates\n2. steady state concentration of free radical intermediates is often too low to enable direct detection by EPR\n3. detection of spin adducts requires lower power than direct detection of radical intermediates\nAnswer: 3\n\n23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?\nChoose the best answer from the following options:\n0. 101.1 x 10^7 T-1 s-1\n1. 26.75 x 10^7 T-1 s-1\n2. 7.081 x 10^7 T-1 s-1\n3. 0.9377 x 10^7 T-1 s-1\nAnswer: ",
+        "answer": 2
+    },
+    "35": {
+        "question": "The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?\nChoose the best answer from the following options:\n0. hexane\n1. 2-methylpentane\n2. 3-methylpentane\n3. 2,3-dimethylbutane\nAnswer: 1\n\nWhich of the following is the most common naturally-occurring form in which silicon is found?\nChoose the best answer from the following options:\n0. Metallic element\n1. Sulfide\n2. Fluoride\n3. Oxide\nAnswer: ",
+        "answer": 3
+    },
+    "36": {
+        "question": "The Henry\u2019s law constant for CO2 dissolved in water at 25\u00b0C is 30.0 atm M^\u22121. The concentration of dissolved CO2 in a vessel pressurized with 2.0 atm of CO2 is\nChoose the best answer from the following options:\n0. 1.5 M\n1. 0.15 M\n2. 0.067 M\n3. 0.015 M\nAnswer: 2\n\nWhat is the strength (B1) of a 13C 90\u00b0 pulse of duration 1 \u03bcs?\nChoose the best answer from the following options:\n0. 3.72 mT\n1. 5.18 mT\n2. 17.0 mT\n3. 23.3 mT\nAnswer: ",
+        "answer": 1
+    },
+    "37": {
+        "question": "Calculate the spin angular momentum of 43Ca. [I = 7\u20442]\nChoose the best answer from the following options:\n0. 2.166 x 10^-34 J s\n1. 3.691 x 10^-34 J s\n2. 4.185 x 10^-34 J s\n3. 5.493 x 10^-34 J s\nAnswer: 2\n\nThe strongest base in liquid ammonia is\nChoose the best answer from the following options:\n0. NH3\n1. NH2\u2212\n2. NH4+\n3. N2H4\nAnswer: ",
+        "answer": 1
+    },
+    "38": {
+        "question": "The rate, r, of a zero-order chemical reaction A \u2192 B can be expressed as which of the following?\nChoose the best answer from the following options:\n0. r = k ln[A]\n1. r = k [A]^2\n2. r = k [A]\n3. r = k\nAnswer: 3\n\nWhich of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?\nChoose the best answer from the following options:\n0. CH3F\n1. CH3Cl\n2. CH3Br\n3. CH3I\nAnswer: ",
+        "answer": 1
+    },
+    "39": {
+        "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.\nChoose the best answer from the following options:\n0. g = 2.002\n1. g = 1.950\n2. g = 2.250\n3. g = 2.005\nAnswer: 0\n\nWhich of the following is (are) characteristic of mass spectrometry?\nI. Analyte molecules are converted to gaseous ions.\nII. The ions are separated according to their mass-to-charge ratio.\nIII. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.\nChoose the best answer from the following options:\n0. II only\n1. I and II only\n2. I and III only\n3. I, II, and III\nAnswer: ",
+        "answer": 3
+    },
+    "40": {
+        "question": "A student performs five titrations and obtains a mean result of 0.110 M, with a standard deviation of 0.001 M. If the actual concentration of the titrated solution is 0.100 M, which of the following is true about the titration results?\nChoose the best answer from the following options:\n0. Accurate but not precise\n1. Precise but not accurate\n2. Both accurate and precise\n3. Neither accurate nor precise\nAnswer: 1\n\nWhich one of the following statements is true:\nChoose the best answer from the following options:\n0. Protons and neutrons have orbital and spin angular momentum.\n1. Protons have orbital and spin angular momentum, neutrons have spin angular momentum.\n2. Protons and neutrons possess orbital angular momentum only.\n3. Protons and neutrons possess spin angular momentum only.\nAnswer: ",
+        "answer": 2
+    },
+    "41": {
+        "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\nChoose the best answer from the following options:\n0. 1:1\n1. 1:3\n2. 1:6\n3. 2:3\nAnswer: 2\n\nWhat is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?\nChoose the best answer from the following options:\n0. 1.5R\n1. 2R\n2. 2.5R\n3. 3.5R\nAnswer: ",
+        "answer": 3
+    },
+    "42": {
+        "question": "The molecular geometry of thionyl chloride, SOCl2, is best described as\nChoose the best answer from the following options:\n0. trigonal planar\n1. T-shaped\n2. tetrahedral\n3. trigonal pyramidal\nAnswer: 3\n\nThe 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\nChoose the best answer from the following options:\n0. 1:1\n1. 1:3\n2. 1:6\n3. 2:3\nAnswer: ",
+        "answer": 2
+    },
+    "43": {
+        "question": "Which of the following is (are) characteristic of mass spectrometry?\nI. Analyte molecules are converted to gaseous ions.\nII. The ions are separated according to their mass-to-charge ratio.\nIII. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.\nChoose the best answer from the following options:\n0. II only\n1. I and II only\n2. I and III only\n3. I, II, and III\nAnswer: 3\n\nWhich of the following types of spectroscopy is a light-scattering technique?\nChoose the best answer from the following options:\n0. Nuclear magnetic resonance\n1. Infrared\n2. Raman\n3. Ultraviolet-visible\nAnswer: ",
+        "answer": 2
+    },
+    "44": {
+        "question": "The strongest base in liquid ammonia is\nChoose the best answer from the following options:\n0. NH3\n1. NH2\u2212\n2. NH4+\n3. N2H4\nAnswer: 1\n\nA radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)\nChoose the best answer from the following options:\n0. 150 mCi\n1. 38 mCi\n2. 19 mCi\n3. 9.4 mCi\nAnswer: ",
+        "answer": 3
+    },
+    "45": {
+        "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.\nChoose the best answer from the following options:\n0. g = 2.002\n1. g = 1.950\n2. g = 2.250\n3. g = 2.005\nAnswer: 0\n\nWhich of the following is lower for argon than for neon?\nChoose the best answer from the following options:\n0. Melting point\n1. Boiling point\n2. Polarizability\n3. First ionization energy\nAnswer: ",
+        "answer": 3
+    },
+    "46": {
+        "question": "During a delay, spins with an offset frequency \u03a9 = 250 rad s-1 precess through an angle of 60\u00b0. How long is the delay?\nChoose the best answer from the following options:\n0. 4.19 ms\n1. 26.3 ms\n2. 240 ms\n3. 1510 ms\nAnswer: 0\n\nThe equation \u0394H = \u0394U + P\u0394V is applicable\nChoose the best answer from the following options:\n0. always\n1. only for constant pressure processes\n2. only for constant temperature processes\n3. only for constant volume processes\nAnswer: ",
+        "answer": 1
+    },
+    "47": {
+        "question": "Which of the following is a true statement about optical isomerism of complexes containing achiral ligands?\nChoose the best answer from the following options:\n0. Square planar complexes can display optical isomerism only if all four ligands are identical.\n1. Tetrahedral complexes never display optical isomerism.\n2. Linear complexes can display optical isomerism when both ligands are different.\n3. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.\nAnswer: 3\n\nAt 25\u00b0C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25\u00b0C is\nChoose the best answer from the following options:\n0. 1.0 \u00d7 10^\u22123\n1. 1.0 \u00d7 10^\u22126\n2. 1.0 \u00d7 10^\u22129\n3. 4.0 \u00d7 10^\u22129\nAnswer: ",
+        "answer": 3
+    },
+    "48": {
+        "question": "A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?\nChoose the best answer from the following options:\n0. It has little effect.\n1. It significantly increases the pH.\n2. It significantly decreases the pH.\n3. It changes the pH asymptotically to the pKa of the acid.\nAnswer: 0\n\nThe 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. Assuming that the chemical shift differences are dominated by paramagnetic currents, determine the chemical shift of [Ru(NH3)6]2+.\nChoose the best answer from the following options:\n0. 7,530 ppm\n1. 8,090 ppm\n2. 11,070 ppm\n3. 14,840 ppm\nAnswer: ",
+        "answer": 1
+    },
+    "49": {
+        "question": "Of the following compounds, which has the lowest melting point?\nChoose the best answer from the following options:\n0. HCl\n1. AgCl\n2. CaCl2\n3. CCl4\nAnswer: 0\n\nWhich one of the following statements is true:\nChoose the best answer from the following options:\n0. Protons and neutrons have orbital and spin angular momentum.\n1. Protons have orbital and spin angular momentum, neutrons have spin angular momentum.\n2. Protons and neutrons possess orbital angular momentum only.\n3. Protons and neutrons possess spin angular momentum only.\nAnswer: ",
+        "answer": 2
+    }
+}
