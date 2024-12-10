@@ -1,22 +1,10 @@
-## Installation
+# Investigating In-Context Curriculum Learning 📚
 
-```
-python -m venv stats
-source stats/bin/activate
-pip install -r requirements.txt
-```
+## Installation 💻
 
-When you want to update packages in your environment, run:
-```
-pip freeze > requirements.txt
-```
+The main results for our project can be replicated from [`notebooks/curriculum.ipynb`](notebooks/curriculum.ipynb), which can be run on Colab with A100 GPU.
 
-<br>
-
-## Set up Ollama for inference 🦙
-
-1. Download Ollama app [here](https://ollama.com/).
-2. Open the app.
-3. Run `pip install ollama` in terminal.
-4. If you want to run model e.g. `llama3.2`, run `ollama run llama3.2` in terminal (this will load the model).
-5. Open `run_ollama.ipynb`, run the code (make sure to change the model name in second cell).
+To successfully run the notebook:
+1. The notebook evaluates Llama-3.2-3B. To successfully load the model, you need a Hugging Face access token, with access to Llama-3 model family.
+2. Upload [`prompts.zip`](prompts.zip) from this repository to Colab.
+3. The notebook evaluates a non-fine-tuned model, a model fine-tuned without curriculum learning (CL), and a model fine-tuned with CL. You might run into Cuda out of memory error when moving on to fine-tuning the model with CL. If that happens, restart the runtime, and skip fine-tuning model without CL.
